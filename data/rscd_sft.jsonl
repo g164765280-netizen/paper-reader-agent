@@ -1,0 +1,1000 @@
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 LEVIR-CD 数据集上取得 Recall=0.769。\n\n问题：BIT 在 LEVIR-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.769[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 WHU-CD 数据集上取得 Precision=0.805。\n\n问题：BIT 在 WHU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.805[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SYSU-CD 数据集上取得 Precision=0.851。 其他指标为 F1=0.879、IoU=0.875。\n\n问题：SNUNet 在 SYSU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.851[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SYSU-CD 数据集上取得 OA=0.847。 其他指标为 F1=0.702、IoU=0.901。\n\n问题：DMINet 在 SYSU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.847[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SECOND 数据集上取得 mIoU=0.739。 其他指标为 F1=0.784、IoU=0.723。\n\n问题：DMINet 在 SECOND 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.739[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SECOND 数据集上取得 mIoU=0.851。 其他指标为 F1=0.882、IoU=0.834。\n\n问题：BIT 在 SECOND 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.851[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 WHU-CD 数据集上取得 Precision=0.773。 其他指标为 F1=0.921、IoU=0.790。\n\n问题：DMINet 在 WHU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.773[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 WHU-CD 数据集上取得 F1=0.865。 其他指标为 F1=0.946、IoU=0.914。\n\n问题：SNUNet 在 WHU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.865[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 HRSCD 数据集上取得 mIoU=0.813。 其他指标为 F1=0.741、IoU=0.789。\n\n问题：BIT 在 HRSCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.813[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 WHU-CD 数据集上取得 Precision=0.859。 其他指标为 F1=0.761、IoU=0.816。\n\n问题：TinyCD 在 WHU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.859[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SYSU-CD 数据集上取得 Recall=0.781。 其他指标为 F1=0.714、IoU=0.905。\n\n问题：TinyCD 在 SYSU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.781[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 HRSCD 数据集上取得 mIoU=0.717。 其他指标为 F1=0.842、IoU=0.879。\n\n问题：HANet 在 HRSCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.717[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CLCD 数据集上取得 OA=0.921。 其他指标为 F1=0.736、IoU=0.735。\n\n问题：SNUNet 在 CLCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.921[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 HRSCD 数据集上取得 Precision=0.800。\n\n问题：TinyCD 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.800[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CLCD 数据集上取得 F1=0.889。 其他指标为 F1=0.738、IoU=0.740。\n\n问题：ChangerEx 在 CLCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.889[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 WHU-CD 数据集上取得 OA=0.795。 其他指标为 F1=0.832、IoU=0.943。\n\n问题：DMINet 在 WHU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.795[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 WHU-CD 数据集上取得 Recall=0.921。 其他指标为 F1=0.892、IoU=0.785。\n\n问题：ChangeFormer 在 WHU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.921[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 HRSCD 数据集上取得 IoU=0.813。 其他指标为 F1=0.919、IoU=0.766。\n\n问题：TinyCD 在 HRSCD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.813[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 WHU-CD 数据集上取得 Recall=0.775。 其他指标为 F1=0.852、IoU=0.738。\n\n问题：ChangerEx 在 WHU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.775[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 LEVIR-CD 数据集上取得 Precision=0.781。\n\n问题：ChangerEx 在 LEVIR-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.781[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CDD 数据集上取得 IoU=0.714。 其他指标为 F1=0.937、IoU=0.721。\n\n问题：HANet 在 CDD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.714[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 WHU-CD 数据集上取得 Precision=0.891。\n\n问题：ChangeStar 在 WHU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.891[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 S2Looking 数据集上取得 mIoU=0.832。 其他指标为 F1=0.941、IoU=0.932。\n\n问题：ChangeStar 在 S2Looking 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.832[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CDD 数据集上取得 OA=0.949。 其他指标为 F1=0.810、IoU=0.829。\n\n问题：SNUNet 在 CDD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.949[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SYSU-CD 数据集上取得 IoU=0.716。\n\n问题：BIT 在 SYSU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.716[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SYSU-CD 数据集上取得 F1=0.718。 其他指标为 F1=0.757、IoU=0.926。\n\n问题：SNUNet 在 SYSU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.718[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 WHU-CD 数据集上取得 Precision=0.760。 其他指标为 F1=0.754、IoU=0.733。\n\n问题：HANet 在 WHU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.760[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 数据集上取得 OA=0.902。\n\n问题：ChangeStar 在 SYSU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.902[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 HRSCD 数据集上取得 mIoU=0.806。\n\n问题：BIT 在 HRSCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.806[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 WHU-CD 数据集上取得 F1=0.801。\n\n问题：ChangeFormer 在 WHU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.801[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SYSU-CD 数据集上取得 IoU=0.748。\n\n问题：BIT 在 SYSU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.748[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 数据集上取得 mIoU=0.816。 其他指标为 F1=0.719、IoU=0.902。\n\n问题：DMINet 在 S2Looking 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.816[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 LEVIR-CD 数据集上取得 Recall=0.950。 其他指标为 F1=0.942、IoU=0.932。\n\n问题：BIT 在 LEVIR-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.950[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 S2Looking 数据集上取得 OA=0.821。\n\n问题：SNUNet 在 S2Looking 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.821[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 LEVIR-CD 数据集上取得 IoU=0.795。 其他指标为 F1=0.766、IoU=0.896。\n\n问题：DMINet 在 LEVIR-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.795[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CDD 数据集上取得 OA=0.874。 其他指标为 F1=0.896、IoU=0.865。\n\n问题：ChangeStar 在 CDD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.874[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 S2Looking 数据集上取得 IoU=0.774。 其他指标为 F1=0.845、IoU=0.836。\n\n问题：ChangeStar 在 S2Looking 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.774[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 LEVIR-CD 数据集上取得 F1=0.846。 其他指标为 F1=0.913、IoU=0.739。\n\n问题：HANet 在 LEVIR-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.846[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 S2Looking 数据集上取得 F1=0.849。 其他指标为 F1=0.759、IoU=0.730。\n\n问题：BIT 在 S2Looking 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.849[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 LEVIR-CD 数据集上取得 Precision=0.720。 其他指标为 F1=0.841、IoU=0.779。\n\n问题：SNUNet 在 LEVIR-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.720[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SYSU-CD 数据集上取得 Recall=0.879。\n\n问题：TinyCD 在 SYSU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.879[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 数据集上取得 Recall=0.861。\n\n问题：DMINet 在 S2Looking 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.861[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 LEVIR-CD 数据集上取得 OA=0.855。 其他指标为 F1=0.725、IoU=0.834。\n\n问题：BIT 在 LEVIR-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.855[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 S2Looking 数据集上取得 mIoU=0.920。 其他指标为 F1=0.792、IoU=0.739。\n\n问题：TinyCD 在 S2Looking 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.920[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 LEVIR-CD 数据集上取得 Recall=0.904。\n\n问题：TinyCD 在 LEVIR-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.904[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 S2Looking 数据集上取得 mIoU=0.729。\n\n问题：BIT 在 S2Looking 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.729[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CDD 数据集上取得 mIoU=0.851。 其他指标为 F1=0.751、IoU=0.859。\n\n问题：ChangerEx 在 CDD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.851[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CLCD 数据集上取得 mIoU=0.926。 其他指标为 F1=0.723、IoU=0.806。\n\n问题：TinyCD 在 CLCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.926[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 LEVIR-CD 数据集上取得 F1=0.783。\n\n问题：TinyCD 在 LEVIR-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.783[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 S2Looking 数据集上取得 Recall=0.810。 其他指标为 F1=0.840、IoU=0.728。\n\n问题：TinyCD 在 S2Looking 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.810[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 LEVIR-CD 数据集上取得 mIoU=0.846。\n\n问题：ChangerEx 在 LEVIR-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.846[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 LEVIR-CD 数据集上取得 mIoU=0.791。 其他指标为 F1=0.943、IoU=0.710。\n\n问题：ChangerEx 在 LEVIR-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.791[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SYSU-CD 数据集上取得 Recall=0.762。\n\n问题：HANet 在 SYSU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.762[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 数据集上取得 IoU=0.916。 其他指标为 F1=0.903、IoU=0.920。\n\n问题：DMINet 在 S2Looking 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.916[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 S2Looking 数据集上取得 Recall=0.931。 其他指标为 F1=0.803、IoU=0.867。\n\n问题：ChangeFormer 在 S2Looking 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.931[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CDD 数据集上取得 IoU=0.897。\n\n问题：SNUNet 在 CDD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.897[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CLCD 数据集上取得 IoU=0.750。 其他指标为 F1=0.787、IoU=0.905。\n\n问题：ChangeFormer 在 CLCD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.750[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SYSU-CD 数据集上取得 F1=0.865。\n\n问题：SNUNet 在 SYSU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.865[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 WHU-CD 数据集上取得 mIoU=0.788。 其他指标为 F1=0.870、IoU=0.911。\n\n问题：TinyCD 在 WHU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.788[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 LEVIR-CD 数据集上取得 F1=0.919。\n\n问题：HANet 在 LEVIR-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.919[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 LEVIR-CD 数据集上取得 F1=0.849。\n\n问题：TinyCD 在 LEVIR-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.849[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 HRSCD 数据集上取得 Precision=0.946。\n\n问题：HANet 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.946[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CDD 数据集上取得 F1=0.877。\n\n问题：SNUNet 在 CDD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.877[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SECOND 数据集上取得 OA=0.717。 其他指标为 F1=0.783、IoU=0.778。\n\n问题：SNUNet 在 SECOND 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.717[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CDD 数据集上取得 Precision=0.777。\n\n问题：BIT 在 CDD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.777[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CDD 数据集上取得 Precision=0.732。\n\n问题：DMINet 在 CDD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.732[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 数据集上取得 Precision=0.842。\n\n问题：DMINet 在 S2Looking 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.842[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CDD 数据集上取得 mIoU=0.753。 其他指标为 F1=0.852、IoU=0.781。\n\n问题：ChangeFormer 在 CDD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.753[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CLCD 数据集上取得 Recall=0.753。\n\n问题：ChangeStar 在 CLCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.753[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 WHU-CD 数据集上取得 mIoU=0.829。 其他指标为 F1=0.784、IoU=0.905。\n\n问题：ChangerEx 在 WHU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.829[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CDD 数据集上取得 IoU=0.902。\n\n问题：SNUNet 在 CDD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.902[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SYSU-CD 数据集上取得 OA=0.853。 其他指标为 F1=0.814、IoU=0.922。\n\n问题：ChangeFormer 在 SYSU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.853[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 HRSCD 数据集上取得 OA=0.800。\n\n问题：SNUNet 在 HRSCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.800[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 WHU-CD 数据集上取得 OA=0.755。 其他指标为 F1=0.874、IoU=0.816。\n\n问题：ChangeFormer 在 WHU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.755[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 WHU-CD 数据集上取得 OA=0.733。\n\n问题：SNUNet 在 WHU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.733[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CLCD 数据集上取得 Precision=0.904。 其他指标为 F1=0.807、IoU=0.927。\n\n问题：HANet 在 CLCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.904[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 S2Looking 数据集上取得 Recall=0.915。\n\n问题：ChangeStar 在 S2Looking 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.915[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CDD 数据集上取得 Precision=0.821。\n\n问题：SNUNet 在 CDD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.821[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 WHU-CD 数据集上取得 Recall=0.771。\n\n问题：ChangeStar 在 WHU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.771[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 WHU-CD 数据集上取得 IoU=0.738。\n\n问题：HANet 在 WHU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.738[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 SYSU-CD 数据集上取得 F1=0.804。\n\n问题：ChangerEx 在 SYSU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.804[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 HRSCD 数据集上取得 F1=0.752。\n\n问题：ChangeStar 在 HRSCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.752[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 HRSCD 数据集上取得 OA=0.701。\n\n问题：ChangeFormer 在 HRSCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.701[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 HRSCD 数据集上取得 Precision=0.887。 其他指标为 F1=0.851、IoU=0.755。\n\n问题：DMINet 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.887[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CDD 数据集上取得 OA=0.821。\n\n问题：SNUNet 在 CDD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.821[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 数据集上取得 OA=0.930。 其他指标为 F1=0.834、IoU=0.927。\n\n问题：DMINet 在 S2Looking 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.930[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 WHU-CD 数据集上取得 Recall=0.807。 其他指标为 F1=0.745、IoU=0.765。\n\n问题：ChangeFormer 在 WHU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.807[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SYSU-CD 数据集上取得 OA=0.782。 其他指标为 F1=0.795、IoU=0.888。\n\n问题：HANet 在 SYSU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.782[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CDD 数据集上取得 F1=0.818。 其他指标为 F1=0.713、IoU=0.938。\n\n问题：DMINet 在 CDD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.818[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 WHU-CD 数据集上取得 Recall=0.710。\n\n问题：SNUNet 在 WHU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.710[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SYSU-CD 数据集上取得 F1=0.855。\n\n问题：SNUNet 在 SYSU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.855[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 WHU-CD 数据集上取得 Precision=0.937。\n\n问题：ChangeStar 在 WHU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.937[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SECOND 数据集上取得 IoU=0.851。 其他指标为 F1=0.880、IoU=0.894。\n\n问题：TinyCD 在 SECOND 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.851[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CDD 数据集上取得 F1=0.845。 其他指标为 F1=0.844、IoU=0.927。\n\n问题：ChangerEx 在 CDD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.845[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 HRSCD 数据集上取得 Recall=0.750。 其他指标为 F1=0.908、IoU=0.761。\n\n问题：DMINet 在 HRSCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.750[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 WHU-CD 数据集上取得 Precision=0.896。\n\n问题：TinyCD 在 WHU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.896[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SECOND 数据集上取得 F1=0.826。\n\n问题：DMINet 在 SECOND 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.826[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CLCD 数据集上取得 F1=0.808。\n\n问题：DMINet 在 CLCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.808[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 S2Looking 数据集上取得 OA=0.744。 其他指标为 F1=0.863、IoU=0.854。\n\n问题：ChangeStar 在 S2Looking 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.744[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CLCD 数据集上取得 OA=0.906。 其他指标为 F1=0.781、IoU=0.761。\n\n问题：ChangeStar 在 CLCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.906[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CDD 数据集上取得 OA=0.761。\n\n问题：BIT 在 CDD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.761[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SECOND 数据集上取得 F1=0.824。\n\n问题：DMINet 在 SECOND 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.824[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 数据集上取得 mIoU=0.899。\n\n问题：ChangeStar 在 SYSU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.899[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 LEVIR-CD 数据集上取得 Precision=0.937。\n\n问题：TinyCD 在 LEVIR-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.937[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CLCD 数据集上取得 Precision=0.890。 其他指标为 F1=0.861、IoU=0.823。\n\n问题：DMINet 在 CLCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.890[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 WHU-CD 数据集上取得 mIoU=0.755。 其他指标为 F1=0.777、IoU=0.845。\n\n问题：ChangeFormer 在 WHU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.755[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SECOND 数据集上取得 OA=0.949。 其他指标为 F1=0.788、IoU=0.813。\n\n问题：ChangeStar 在 SECOND 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.949[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CDD 数据集上取得 IoU=0.730。\n\n问题：TinyCD 在 CDD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.730[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 S2Looking 数据集上取得 IoU=0.754。\n\n问题：BIT 在 S2Looking 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.754[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 WHU-CD 数据集上取得 IoU=0.774。\n\n问题：TinyCD 在 WHU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.774[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 LEVIR-CD 数据集上取得 Recall=0.834。\n\n问题：TinyCD 在 LEVIR-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.834[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CDD 数据集上取得 Recall=0.936。 其他指标为 F1=0.888、IoU=0.726。\n\n问题：ChangeFormer 在 CDD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.936[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CDD 数据集上取得 OA=0.820。\n\n问题：ChangeFormer 在 CDD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.820[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CDD 数据集上取得 OA=0.729。\n\n问题：ChangeFormer 在 CDD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.729[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 WHU-CD 数据集上取得 Precision=0.857。\n\n问题：ChangeStar 在 WHU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.857[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CDD 数据集上取得 F1=0.948。\n\n问题：ChangerEx 在 CDD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.948[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SYSU-CD 数据集上取得 Precision=0.795。 其他指标为 F1=0.774、IoU=0.847。\n\n问题：DMINet 在 SYSU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.795[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CDD 数据集上取得 Precision=0.855。 其他指标为 F1=0.885、IoU=0.937。\n\n问题：DMINet 在 CDD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.855[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SYSU-CD 数据集上取得 mIoU=0.865。\n\n问题：SNUNet 在 SYSU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.865[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 WHU-CD 数据集上取得 IoU=0.701。\n\n问题：ChangerEx 在 WHU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.701[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CDD 数据集上取得 F1=0.758。 其他指标为 F1=0.876、IoU=0.814。\n\n问题：ChangeStar 在 CDD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.758[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CDD 数据集上取得 Recall=0.847。 其他指标为 F1=0.749、IoU=0.729。\n\n问题：SNUNet 在 CDD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.847[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 S2Looking 数据集上取得 mIoU=0.907。\n\n问题：SNUNet 在 S2Looking 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.907[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CDD 数据集上取得 Precision=0.887。 其他指标为 F1=0.772、IoU=0.731。\n\n问题：ChangerEx 在 CDD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.887[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 HRSCD 数据集上取得 mIoU=0.825。\n\n问题：TinyCD 在 HRSCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.825[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 LEVIR-CD 数据集上取得 OA=0.884。 其他指标为 F1=0.706、IoU=0.757。\n\n问题：BIT 在 LEVIR-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.884[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CDD 数据集上取得 Precision=0.710。 其他指标为 F1=0.818、IoU=0.863。\n\n问题：ChangeFormer 在 CDD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.710[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 S2Looking 数据集上取得 Precision=0.809。 其他指标为 F1=0.942、IoU=0.818。\n\n问题：TinyCD 在 S2Looking 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.809[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SECOND 数据集上取得 mIoU=0.868。 其他指标为 F1=0.782、IoU=0.873。\n\n问题：DMINet 在 SECOND 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.868[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 HRSCD 数据集上取得 Precision=0.709。\n\n问题：TinyCD 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.709[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SECOND 数据集上取得 F1=0.943。\n\n问题：TinyCD 在 SECOND 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.943[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CLCD 数据集上取得 OA=0.714。 其他指标为 F1=0.856、IoU=0.825。\n\n问题：ChangeFormer 在 CLCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.714[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 数据集上取得 IoU=0.767。\n\n问题：ChangeStar 在 LEVIR-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.767[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CLCD 数据集上取得 Recall=0.821。\n\n问题：TinyCD 在 CLCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.821[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 S2Looking 数据集上取得 mIoU=0.838。 其他指标为 F1=0.723、IoU=0.948。\n\n问题：SNUNet 在 S2Looking 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.838[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CLCD 数据集上取得 F1=0.862。\n\n问题：BIT 在 CLCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.862[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CDD 数据集上取得 OA=0.909。 其他指标为 F1=0.761、IoU=0.838。\n\n问题：TinyCD 在 CDD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.909[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SYSU-CD 数据集上取得 Precision=0.827。 其他指标为 F1=0.916、IoU=0.769。\n\n问题：DMINet 在 SYSU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.827[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SECOND 数据集上取得 Precision=0.767。\n\n问题：DMINet 在 SECOND 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.767[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CLCD 数据集上取得 IoU=0.812。\n\n问题：TinyCD 在 CLCD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.812[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 HRSCD 数据集上取得 OA=0.933。 其他指标为 F1=0.945、IoU=0.760。\n\n问题：HANet 在 HRSCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.933[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SYSU-CD 数据集上取得 OA=0.711。 其他指标为 F1=0.876、IoU=0.903。\n\n问题：DMINet 在 SYSU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.711[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 数据集上取得 OA=0.941。\n\n问题：DMINet 在 S2Looking 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.941[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 WHU-CD 数据集上取得 OA=0.725。 其他指标为 F1=0.704、IoU=0.736。\n\n问题：HANet 在 WHU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.725[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 WHU-CD 数据集上取得 OA=0.895。\n\n问题：ChangerEx 在 WHU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.895[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 WHU-CD 数据集上取得 mIoU=0.913。 其他指标为 F1=0.795、IoU=0.779。\n\n问题：DMINet 在 WHU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.913[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 数据集上取得 Precision=0.717。 其他指标为 F1=0.930、IoU=0.949。\n\n问题：ChangeStar 在 LEVIR-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.717[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 HRSCD 数据集上取得 F1=0.890。 其他指标为 F1=0.725、IoU=0.742。\n\n问题：BIT 在 HRSCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.890[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 LEVIR-CD 数据集上取得 F1=0.781。\n\n问题：TinyCD 在 LEVIR-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.781[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SECOND 数据集上取得 OA=0.736。 其他指标为 F1=0.841、IoU=0.898。\n\n问题：HANet 在 SECOND 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.736[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 S2Looking 数据集上取得 F1=0.852。\n\n问题：ChangerEx 在 S2Looking 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.852[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CLCD 数据集上取得 Precision=0.736。\n\n问题：SNUNet 在 CLCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.736[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CLCD 数据集上取得 mIoU=0.867。 其他指标为 F1=0.816、IoU=0.772。\n\n问题：TinyCD 在 CLCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.867[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 WHU-CD 数据集上取得 OA=0.936。 其他指标为 F1=0.775、IoU=0.941。\n\n问题：ChangerEx 在 WHU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.936[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CLCD 数据集上取得 mIoU=0.750。\n\n问题：TinyCD 在 CLCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.750[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 WHU-CD 数据集上取得 IoU=0.795。\n\n问题：ChangeStar 在 WHU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.795[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CDD 数据集上取得 F1=0.944。 其他指标为 F1=0.769、IoU=0.841。\n\n问题：TinyCD 在 CDD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.944[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CLCD 数据集上取得 mIoU=0.894。\n\n问题：ChangeFormer 在 CLCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.894[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SYSU-CD 数据集上取得 Recall=0.748。\n\n问题：HANet 在 SYSU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.748[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 WHU-CD 数据集上取得 Recall=0.862。\n\n问题：ChangerEx 在 WHU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.862[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 数据集上取得 Precision=0.791。\n\n问题：ChangeStar 在 LEVIR-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.791[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SECOND 数据集上取得 Recall=0.804。\n\n问题：TinyCD 在 SECOND 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.804[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CDD 数据集上取得 IoU=0.764。 其他指标为 F1=0.820、IoU=0.902。\n\n问题：HANet 在 CDD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.764[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 WHU-CD 数据集上取得 OA=0.941。\n\n问题：HANet 在 WHU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.941[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 HRSCD 数据集上取得 Precision=0.791。 其他指标为 F1=0.703、IoU=0.834。\n\n问题：SNUNet 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.791[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SECOND 数据集上取得 Recall=0.887。\n\n问题：ChangeStar 在 SECOND 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.887[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SECOND 数据集上取得 F1=0.869。\n\n问题：DMINet 在 SECOND 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.869[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SYSU-CD 数据集上取得 Recall=0.716。 其他指标为 F1=0.927、IoU=0.776。\n\n问题：HANet 在 SYSU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.716[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 WHU-CD 数据集上取得 IoU=0.711。\n\n问题：DMINet 在 WHU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.711[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 WHU-CD 数据集上取得 F1=0.759。 其他指标为 F1=0.797、IoU=0.793。\n\n问题：ChangeStar 在 WHU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.759[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 数据集上取得 OA=0.864。 其他指标为 F1=0.854、IoU=0.935。\n\n问题：DMINet 在 S2Looking 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.864[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 LEVIR-CD 数据集上取得 Recall=0.793。\n\n问题：TinyCD 在 LEVIR-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.793[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SECOND 数据集上取得 F1=0.945。\n\n问题：SNUNet 在 SECOND 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.945[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 LEVIR-CD 数据集上取得 OA=0.769。 其他指标为 F1=0.937、IoU=0.906。\n\n问题：HANet 在 LEVIR-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.769[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SYSU-CD 数据集上取得 Recall=0.860。 其他指标为 F1=0.713、IoU=0.783。\n\n问题：BIT 在 SYSU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.860[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 SYSU-CD 数据集上取得 F1=0.907。 其他指标为 F1=0.847、IoU=0.903。\n\n问题：ChangerEx 在 SYSU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.907[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SECOND 数据集上取得 IoU=0.897。 其他指标为 F1=0.769、IoU=0.946。\n\n问题：SNUNet 在 SECOND 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.897[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CDD 数据集上取得 IoU=0.727。 其他指标为 F1=0.733、IoU=0.790。\n\n问题：ChangerEx 在 CDD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.727[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SECOND 数据集上取得 F1=0.744。\n\n问题：SNUNet 在 SECOND 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.744[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 WHU-CD 数据集上取得 Recall=0.716。\n\n问题：DMINet 在 WHU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.716[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 WHU-CD 数据集上取得 OA=0.826。 其他指标为 F1=0.711、IoU=0.896。\n\n问题：HANet 在 WHU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.826[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CLCD 数据集上取得 Recall=0.941。\n\n问题：TinyCD 在 CLCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.941[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 HRSCD 数据集上取得 OA=0.872。\n\n问题：ChangeStar 在 HRSCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.872[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 WHU-CD 数据集上取得 F1=0.781。\n\n问题：ChangeStar 在 WHU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.781[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CDD 数据集上取得 Precision=0.858。 其他指标为 F1=0.781、IoU=0.949。\n\n问题：ChangerEx 在 CDD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.858[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CLCD 数据集上取得 Precision=0.851。\n\n问题：TinyCD 在 CLCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.851[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SYSU-CD 数据集上取得 OA=0.813。\n\n问题：BIT 在 SYSU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.813[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CLCD 数据集上取得 OA=0.804。\n\n问题：HANet 在 CLCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.804[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SECOND 数据集上取得 Recall=0.764。 其他指标为 F1=0.872、IoU=0.819。\n\n问题：DMINet 在 SECOND 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.764[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 WHU-CD 数据集上取得 F1=0.808。 其他指标为 F1=0.793、IoU=0.733。\n\n问题：BIT 在 WHU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.808[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SECOND 数据集上取得 Recall=0.731。\n\n问题：ChangeFormer 在 SECOND 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.731[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 LEVIR-CD 数据集上取得 mIoU=0.850。\n\n问题：DMINet 在 LEVIR-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.850[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 S2Looking 数据集上取得 Recall=0.821。 其他指标为 F1=0.788、IoU=0.839。\n\n问题：SNUNet 在 S2Looking 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.821[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CDD 数据集上取得 Precision=0.757。\n\n问题：BIT 在 CDD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.757[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CDD 数据集上取得 F1=0.745。 其他指标为 F1=0.777、IoU=0.785。\n\n问题：ChangeFormer 在 CDD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.745[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 S2Looking 数据集上取得 IoU=0.842。\n\n问题：ChangeFormer 在 S2Looking 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.842[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 LEVIR-CD 数据集上取得 F1=0.887。\n\n问题：ChangerEx 在 LEVIR-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.887[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CLCD 数据集上取得 mIoU=0.739。\n\n问题：DMINet 在 CLCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.739[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 WHU-CD 数据集上取得 F1=0.739。 其他指标为 F1=0.712、IoU=0.720。\n\n问题：HANet 在 WHU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.739[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 HRSCD 数据集上取得 OA=0.852。\n\n问题：ChangeStar 在 HRSCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.852[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 WHU-CD 数据集上取得 mIoU=0.807。\n\n问题：SNUNet 在 WHU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.807[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CDD 数据集上取得 F1=0.755。 其他指标为 F1=0.714、IoU=0.751。\n\n问题：ChangeStar 在 CDD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.755[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 S2Looking 数据集上取得 mIoU=0.772。\n\n问题：SNUNet 在 S2Looking 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.772[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 HRSCD 数据集上取得 IoU=0.732。 其他指标为 F1=0.758、IoU=0.840。\n\n问题：ChangeStar 在 HRSCD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.732[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 WHU-CD 数据集上取得 OA=0.915。\n\n问题：HANet 在 WHU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.915[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CLCD 数据集上取得 F1=0.916。 其他指标为 F1=0.843、IoU=0.877。\n\n问题：ChangeFormer 在 CLCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.916[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CDD 数据集上取得 F1=0.801。 其他指标为 F1=0.743、IoU=0.937。\n\n问题：DMINet 在 CDD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.801[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SECOND 数据集上取得 F1=0.809。\n\n问题：ChangeStar 在 SECOND 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.809[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 HRSCD 数据集上取得 Precision=0.720。 其他指标为 F1=0.886、IoU=0.755。\n\n问题：DMINet 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.720[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 WHU-CD 数据集上取得 Precision=0.858。 其他指标为 F1=0.748、IoU=0.894。\n\n问题：ChangerEx 在 WHU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.858[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 S2Looking 数据集上取得 IoU=0.726。\n\n问题：HANet 在 S2Looking 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.726[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 S2Looking 数据集上取得 Recall=0.719。 其他指标为 F1=0.857、IoU=0.816。\n\n问题：ChangerEx 在 S2Looking 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.719[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SECOND 数据集上取得 Recall=0.779。\n\n问题：ChangeStar 在 SECOND 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.779[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CLCD 数据集上取得 Recall=0.776。\n\n问题：ChangeStar 在 CLCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.776[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SECOND 数据集上取得 Precision=0.719。\n\n问题：ChangeFormer 在 SECOND 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.719[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 LEVIR-CD 数据集上取得 mIoU=0.908。\n\n问题：ChangeFormer 在 LEVIR-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.908[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 HRSCD 数据集上取得 OA=0.845。 其他指标为 F1=0.885、IoU=0.710。\n\n问题：BIT 在 HRSCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.845[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SECOND 数据集上取得 Precision=0.819。\n\n问题：SNUNet 在 SECOND 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.819[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CLCD 数据集上取得 F1=0.903。 其他指标为 F1=0.946、IoU=0.721。\n\n问题：ChangeFormer 在 CLCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.903[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 LEVIR-CD 数据集上取得 IoU=0.877。 其他指标为 F1=0.831、IoU=0.852。\n\n问题：ChangerEx 在 LEVIR-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.877[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SECOND 数据集上取得 mIoU=0.797。 其他指标为 F1=0.870、IoU=0.713。\n\n问题：HANet 在 SECOND 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.797[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 WHU-CD 数据集上取得 mIoU=0.724。 其他指标为 F1=0.771、IoU=0.881。\n\n问题：HANet 在 WHU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.724[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 SECOND 数据集上取得 F1=0.846。\n\n问题：ChangerEx 在 SECOND 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.846[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CDD 数据集上取得 Recall=0.875。\n\n问题：HANet 在 CDD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.875[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CDD 数据集上取得 Precision=0.794。 其他指标为 F1=0.903、IoU=0.868。\n\n问题：BIT 在 CDD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.794[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 HRSCD 数据集上取得 Precision=0.790。\n\n问题：BIT 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.790[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 SYSU-CD 数据集上取得 mIoU=0.937。\n\n问题：ChangerEx 在 SYSU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.937[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 S2Looking 数据集上取得 IoU=0.719。 其他指标为 F1=0.725、IoU=0.893。\n\n问题：SNUNet 在 S2Looking 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.719[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SECOND 数据集上取得 Precision=0.733。\n\n问题：ChangeFormer 在 SECOND 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.733[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 S2Looking 数据集上取得 Recall=0.893。 其他指标为 F1=0.741、IoU=0.809。\n\n问题：ChangerEx 在 S2Looking 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.893[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SECOND 数据集上取得 Recall=0.880。 其他指标为 F1=0.853、IoU=0.888。\n\n问题：DMINet 在 SECOND 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.880[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 数据集上取得 Precision=0.760。 其他指标为 F1=0.896、IoU=0.926。\n\n问题：ChangeStar 在 SYSU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.760[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SECOND 数据集上取得 Recall=0.937。 其他指标为 F1=0.815、IoU=0.770。\n\n问题：SNUNet 在 SECOND 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.937[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 HRSCD 数据集上取得 IoU=0.904。 其他指标为 F1=0.735、IoU=0.763。\n\n问题：DMINet 在 HRSCD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.904[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SECOND 数据集上取得 Precision=0.934。 其他指标为 F1=0.829、IoU=0.731。\n\n问题：ChangeStar 在 SECOND 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.934[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 S2Looking 数据集上取得 mIoU=0.812。 其他指标为 F1=0.908、IoU=0.723。\n\n问题：BIT 在 S2Looking 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.812[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CLCD 数据集上取得 mIoU=0.933。\n\n问题：SNUNet 在 CLCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.933[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SECOND 数据集上取得 IoU=0.797。\n\n问题：DMINet 在 SECOND 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.797[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 LEVIR-CD 数据集上取得 mIoU=0.933。 其他指标为 F1=0.862、IoU=0.898。\n\n问题：SNUNet 在 LEVIR-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.933[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 LEVIR-CD 数据集上取得 mIoU=0.929。\n\n问题：ChangerEx 在 LEVIR-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.929[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CLCD 数据集上取得 OA=0.854。 其他指标为 F1=0.705、IoU=0.754。\n\n问题：ChangerEx 在 CLCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.854[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 HRSCD 数据集上取得 F1=0.894。\n\n问题：ChangerEx 在 HRSCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.894[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 LEVIR-CD 数据集上取得 IoU=0.805。 其他指标为 F1=0.814、IoU=0.728。\n\n问题：BIT 在 LEVIR-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.805[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 数据集上取得 Recall=0.829。\n\n问题：ChangeStar 在 LEVIR-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.829[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CDD 数据集上取得 OA=0.700。\n\n问题：ChangerEx 在 CDD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.700[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 数据集上取得 Recall=0.867。 其他指标为 F1=0.790、IoU=0.938。\n\n问题：DMINet 在 S2Looking 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.867[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 HRSCD 数据集上取得 OA=0.711。\n\n问题：ChangeFormer 在 HRSCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.711[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CDD 数据集上取得 Recall=0.704。 其他指标为 F1=0.786、IoU=0.883。\n\n问题：HANet 在 CDD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.704[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SECOND 数据集上取得 IoU=0.711。 其他指标为 F1=0.903、IoU=0.744。\n\n问题：BIT 在 SECOND 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.711[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CLCD 数据集上取得 Recall=0.746。\n\n问题：ChangeStar 在 CLCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.746[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 数据集上取得 mIoU=0.750。 其他指标为 F1=0.921、IoU=0.779。\n\n问题：ChangeStar 在 LEVIR-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.750[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 HRSCD 数据集上取得 Precision=0.818。\n\n问题：TinyCD 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.818[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CDD 数据集上取得 mIoU=0.916。\n\n问题：SNUNet 在 CDD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.916[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CDD 数据集上取得 F1=0.900。\n\n问题：HANet 在 CDD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.900[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CLCD 数据集上取得 OA=0.785。\n\n问题：DMINet 在 CLCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.785[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SECOND 数据集上取得 Precision=0.767。\n\n问题：ChangeStar 在 SECOND 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.767[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 WHU-CD 数据集上取得 OA=0.851。 其他指标为 F1=0.836、IoU=0.780。\n\n问题：DMINet 在 WHU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.851[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SECOND 数据集上取得 Recall=0.774。\n\n问题：BIT 在 SECOND 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.774[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 数据集上取得 Recall=0.811。\n\n问题：DMINet 在 S2Looking 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.811[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 HRSCD 数据集上取得 mIoU=0.860。 其他指标为 F1=0.714、IoU=0.868。\n\n问题：HANet 在 HRSCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.860[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SECOND 数据集上取得 Precision=0.900。 其他指标为 F1=0.938、IoU=0.736。\n\n问题：DMINet 在 SECOND 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.900[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 数据集上取得 IoU=0.717。 其他指标为 F1=0.792、IoU=0.796。\n\n问题：ChangeStar 在 LEVIR-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.717[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 S2Looking 数据集上取得 Recall=0.812。\n\n问题：ChangeFormer 在 S2Looking 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.812[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 WHU-CD 数据集上取得 Precision=0.734。\n\n问题：ChangeStar 在 WHU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.734[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CDD 数据集上取得 IoU=0.940。\n\n问题：HANet 在 CDD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.940[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CLCD 数据集上取得 Precision=0.797。 其他指标为 F1=0.765、IoU=0.765。\n\n问题：ChangerEx 在 CLCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.797[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 数据集上取得 Precision=0.771。 其他指标为 F1=0.823、IoU=0.731。\n\n问题：ChangeStar 在 SYSU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.771[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CLCD 数据集上取得 IoU=0.925。\n\n问题：BIT 在 CLCD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.925[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SECOND 数据集上取得 Recall=0.787。\n\n问题：BIT 在 SECOND 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.787[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CDD 数据集上取得 IoU=0.878。 其他指标为 F1=0.859、IoU=0.898。\n\n问题：TinyCD 在 CDD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.878[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 WHU-CD 数据集上取得 IoU=0.898。\n\n问题：SNUNet 在 WHU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.898[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 数据集上取得 mIoU=0.839。\n\n问题：ChangeStar 在 LEVIR-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.839[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 WHU-CD 数据集上取得 F1=0.777。 其他指标为 F1=0.880、IoU=0.831。\n\n问题：ChangerEx 在 WHU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.777[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 WHU-CD 数据集上取得 IoU=0.943。 其他指标为 F1=0.812、IoU=0.870。\n\n问题：DMINet 在 WHU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.943[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 S2Looking 数据集上取得 Precision=0.860。\n\n问题：HANet 在 S2Looking 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.860[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 HRSCD 数据集上取得 Precision=0.928。\n\n问题：ChangerEx 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.928[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 S2Looking 数据集上取得 mIoU=0.741。\n\n问题：BIT 在 S2Looking 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.741[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SECOND 数据集上取得 Precision=0.924。 其他指标为 F1=0.763、IoU=0.859。\n\n问题：SNUNet 在 SECOND 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.924[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 S2Looking 数据集上取得 Recall=0.776。 其他指标为 F1=0.826、IoU=0.742。\n\n问题：TinyCD 在 S2Looking 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.776[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 S2Looking 数据集上取得 Recall=0.856。 其他指标为 F1=0.784、IoU=0.931。\n\n问题：ChangerEx 在 S2Looking 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.856[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 LEVIR-CD 数据集上取得 F1=0.711。 其他指标为 F1=0.844、IoU=0.863。\n\n问题：ChangeFormer 在 LEVIR-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.711[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 LEVIR-CD 数据集上取得 OA=0.922。 其他指标为 F1=0.860、IoU=0.776。\n\n问题：DMINet 在 LEVIR-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.922[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 HRSCD 数据集上取得 mIoU=0.813。 其他指标为 F1=0.740、IoU=0.804。\n\n问题：SNUNet 在 HRSCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.813[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 数据集上取得 mIoU=0.852。\n\n问题：ChangeStar 在 SYSU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.852[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SECOND 数据集上取得 OA=0.733。\n\n问题：HANet 在 SECOND 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.733[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SECOND 数据集上取得 IoU=0.817。\n\n问题：BIT 在 SECOND 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.817[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 S2Looking 数据集上取得 F1=0.713。 其他指标为 F1=0.916、IoU=0.805。\n\n问题：SNUNet 在 S2Looking 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.713[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 SECOND 数据集上取得 Precision=0.880。\n\n问题：ChangerEx 在 SECOND 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.880[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CLCD 数据集上取得 Precision=0.817。 其他指标为 F1=0.824、IoU=0.723。\n\n问题：ChangerEx 在 CLCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.817[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CLCD 数据集上取得 IoU=0.754。\n\n问题：DMINet 在 CLCD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.754[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CDD 数据集上取得 OA=0.849。 其他指标为 F1=0.868、IoU=0.771。\n\n问题：ChangeFormer 在 CDD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.849[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 WHU-CD 数据集上取得 OA=0.733。\n\n问题：ChangeFormer 在 WHU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.733[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 HRSCD 数据集上取得 mIoU=0.711。\n\n问题：HANet 在 HRSCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.711[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SECOND 数据集上取得 Precision=0.772。\n\n问题：SNUNet 在 SECOND 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.772[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CDD 数据集上取得 Precision=0.870。\n\n问题：ChangeStar 在 CDD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.870[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 HRSCD 数据集上取得 mIoU=0.899。\n\n问题：BIT 在 HRSCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.899[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 S2Looking 数据集上取得 IoU=0.851。\n\n问题：HANet 在 S2Looking 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.851[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 LEVIR-CD 数据集上取得 F1=0.734。\n\n问题：ChangeFormer 在 LEVIR-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.734[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CLCD 数据集上取得 IoU=0.852。 其他指标为 F1=0.782、IoU=0.853。\n\n问题：ChangeStar 在 CLCD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.852[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 HRSCD 数据集上取得 Precision=0.885。\n\n问题：ChangerEx 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.885[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CLCD 数据集上取得 Recall=0.841。\n\n问题：HANet 在 CLCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.841[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SECOND 数据集上取得 mIoU=0.868。 其他指标为 F1=0.846、IoU=0.899。\n\n问题：ChangeFormer 在 SECOND 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.868[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CLCD 数据集上取得 mIoU=0.942。 其他指标为 F1=0.894、IoU=0.844。\n\n问题：ChangeFormer 在 CLCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.942[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CLCD 数据集上取得 IoU=0.831。 其他指标为 F1=0.894、IoU=0.795。\n\n问题：ChangeFormer 在 CLCD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.831[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 LEVIR-CD 数据集上取得 Precision=0.937。\n\n问题：SNUNet 在 LEVIR-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.937[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CLCD 数据集上取得 mIoU=0.805。\n\n问题：ChangeFormer 在 CLCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.805[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 HRSCD 数据集上取得 Precision=0.894。 其他指标为 F1=0.918、IoU=0.884。\n\n问题：SNUNet 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.894[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 S2Looking 数据集上取得 Precision=0.752。\n\n问题：ChangeFormer 在 S2Looking 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.752[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 HRSCD 数据集上取得 mIoU=0.939。\n\n问题：ChangeStar 在 HRSCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.939[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SECOND 数据集上取得 Recall=0.893。 其他指标为 F1=0.861、IoU=0.873。\n\n问题：HANet 在 SECOND 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.893[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 数据集上取得 IoU=0.770。\n\n问题：ChangeStar 在 SYSU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.770[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CDD 数据集上取得 Recall=0.752。 其他指标为 F1=0.779、IoU=0.787。\n\n问题：TinyCD 在 CDD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.752[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CDD 数据集上取得 F1=0.843。 其他指标为 F1=0.924、IoU=0.799。\n\n问题：TinyCD 在 CDD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.843[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 S2Looking 数据集上取得 mIoU=0.711。 其他指标为 F1=0.720、IoU=0.931。\n\n问题：HANet 在 S2Looking 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.711[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CLCD 数据集上取得 IoU=0.751。 其他指标为 F1=0.933、IoU=0.874。\n\n问题：TinyCD 在 CLCD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.751[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 WHU-CD 数据集上取得 Precision=0.885。\n\n问题：ChangerEx 在 WHU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.885[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SYSU-CD 数据集上取得 Recall=0.758。\n\n问题：ChangeFormer 在 SYSU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.758[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CLCD 数据集上取得 F1=0.870。\n\n问题：HANet 在 CLCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.870[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 HRSCD 数据集上取得 Recall=0.934。 其他指标为 F1=0.819、IoU=0.750。\n\n问题：ChangerEx 在 HRSCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.934[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SECOND 数据集上取得 mIoU=0.861。 其他指标为 F1=0.722、IoU=0.844。\n\n问题：TinyCD 在 SECOND 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.861[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 S2Looking 数据集上取得 OA=0.921。\n\n问题：ChangeFormer 在 S2Looking 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.921[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 HRSCD 数据集上取得 OA=0.747。 其他指标为 F1=0.918、IoU=0.772。\n\n问题：ChangeFormer 在 HRSCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.747[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 LEVIR-CD 数据集上取得 mIoU=0.842。\n\n问题：ChangeFormer 在 LEVIR-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.842[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CDD 数据集上取得 OA=0.947。 其他指标为 F1=0.823、IoU=0.935。\n\n问题：HANet 在 CDD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.947[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CDD 数据集上取得 IoU=0.902。\n\n问题：ChangeStar 在 CDD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.902[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CDD 数据集上取得 Recall=0.747。 其他指标为 F1=0.898、IoU=0.842。\n\n问题：ChangeStar 在 CDD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.747[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 S2Looking 数据集上取得 Precision=0.914。 其他指标为 F1=0.907、IoU=0.829。\n\n问题：SNUNet 在 S2Looking 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.914[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 HRSCD 数据集上取得 Recall=0.724。 其他指标为 F1=0.819、IoU=0.934。\n\n问题：BIT 在 HRSCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.724[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CDD 数据集上取得 OA=0.759。 其他指标为 F1=0.939、IoU=0.775。\n\n问题：ChangeFormer 在 CDD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.759[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CDD 数据集上取得 Recall=0.790。\n\n问题：ChangeFormer 在 CDD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.790[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CLCD 数据集上取得 mIoU=0.740。 其他指标为 F1=0.931、IoU=0.922。\n\n问题：BIT 在 CLCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.740[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 WHU-CD 数据集上取得 Recall=0.929。\n\n问题：TinyCD 在 WHU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.929[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SYSU-CD 数据集上取得 IoU=0.820。\n\n问题：SNUNet 在 SYSU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.820[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 HRSCD 数据集上取得 Recall=0.837。\n\n问题：HANet 在 HRSCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.837[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SYSU-CD 数据集上取得 Recall=0.889。 其他指标为 F1=0.720、IoU=0.812。\n\n问题：SNUNet 在 SYSU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.889[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 WHU-CD 数据集上取得 Precision=0.728。 其他指标为 F1=0.926、IoU=0.751。\n\n问题：HANet 在 WHU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.728[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 S2Looking 数据集上取得 mIoU=0.914。\n\n问题：ChangerEx 在 S2Looking 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.914[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CLCD 数据集上取得 F1=0.925。\n\n问题：SNUNet 在 CLCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.925[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CLCD 数据集上取得 IoU=0.828。\n\n问题：ChangeFormer 在 CLCD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.828[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CLCD 数据集上取得 Recall=0.902。 其他指标为 F1=0.799、IoU=0.904。\n\n问题：ChangeFormer 在 CLCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.902[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 WHU-CD 数据集上取得 F1=0.806。 其他指标为 F1=0.835、IoU=0.715。\n\n问题：SNUNet 在 WHU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.806[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CLCD 数据集上取得 F1=0.772。\n\n问题：BIT 在 CLCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.772[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 HRSCD 数据集上取得 mIoU=0.948。\n\n问题：ChangerEx 在 HRSCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.948[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 HRSCD 数据集上取得 F1=0.871。 其他指标为 F1=0.835、IoU=0.863。\n\n问题：DMINet 在 HRSCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.871[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 WHU-CD 数据集上取得 IoU=0.948。\n\n问题：HANet 在 WHU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.948[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 SYSU-CD 数据集上取得 F1=0.889。 其他指标为 F1=0.816、IoU=0.880。\n\n问题：ChangerEx 在 SYSU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.889[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 HRSCD 数据集上取得 IoU=0.762。\n\n问题：DMINet 在 HRSCD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.762[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SYSU-CD 数据集上取得 Recall=0.891。\n\n问题：TinyCD 在 SYSU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.891[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 LEVIR-CD 数据集上取得 IoU=0.752。\n\n问题：DMINet 在 LEVIR-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.752[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CLCD 数据集上取得 Precision=0.868。 其他指标为 F1=0.761、IoU=0.711。\n\n问题：ChangeFormer 在 CLCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.868[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 数据集上取得 Precision=0.754。 其他指标为 F1=0.714、IoU=0.826。\n\n问题：ChangeStar 在 SYSU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.754[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SYSU-CD 数据集上取得 Recall=0.844。 其他指标为 F1=0.893、IoU=0.905。\n\n问题：TinyCD 在 SYSU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.844[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CDD 数据集上取得 IoU=0.946。 其他指标为 F1=0.803、IoU=0.769。\n\n问题：SNUNet 在 CDD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.946[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 HRSCD 数据集上取得 Precision=0.824。 其他指标为 F1=0.935、IoU=0.868。\n\n问题：ChangerEx 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.824[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 HRSCD 数据集上取得 OA=0.737。\n\n问题：HANet 在 HRSCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.737[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 数据集上取得 IoU=0.775。 其他指标为 F1=0.901、IoU=0.929。\n\n问题：ChangeStar 在 SYSU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.775[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 HRSCD 数据集上取得 Precision=0.832。\n\n问题：DMINet 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.832[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SYSU-CD 数据集上取得 mIoU=0.862。 其他指标为 F1=0.912、IoU=0.723。\n\n问题：TinyCD 在 SYSU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.862[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 LEVIR-CD 数据集上取得 mIoU=0.794。 其他指标为 F1=0.710、IoU=0.718。\n\n问题：SNUNet 在 LEVIR-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.794[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CLCD 数据集上取得 IoU=0.917。\n\n问题：SNUNet 在 CLCD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.917[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SYSU-CD 数据集上取得 IoU=0.941。\n\n问题：ChangeFormer 在 SYSU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.941[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 数据集上取得 Recall=0.851。\n\n问题：ChangeStar 在 SYSU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.851[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SECOND 数据集上取得 mIoU=0.795。 其他指标为 F1=0.790、IoU=0.765。\n\n问题：SNUNet 在 SECOND 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.795[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CLCD 数据集上取得 F1=0.901。 其他指标为 F1=0.890、IoU=0.780。\n\n问题：ChangeStar 在 CLCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.901[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SECOND 数据集上取得 mIoU=0.803。 其他指标为 F1=0.755、IoU=0.736。\n\n问题：SNUNet 在 SECOND 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.803[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 HRSCD 数据集上取得 mIoU=0.738。\n\n问题：TinyCD 在 HRSCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.738[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SYSU-CD 数据集上取得 OA=0.838。 其他指标为 F1=0.784、IoU=0.891。\n\n问题：DMINet 在 SYSU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.838[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CLCD 数据集上取得 OA=0.742。 其他指标为 F1=0.742、IoU=0.880。\n\n问题：ChangeStar 在 CLCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.742[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 S2Looking 数据集上取得 Precision=0.948。 其他指标为 F1=0.831、IoU=0.910。\n\n问题：ChangeStar 在 S2Looking 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.948[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 LEVIR-CD 数据集上取得 F1=0.803。 其他指标为 F1=0.758、IoU=0.877。\n\n问题：BIT 在 LEVIR-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.803[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SYSU-CD 数据集上取得 Precision=0.814。\n\n问题：ChangeFormer 在 SYSU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.814[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CLCD 数据集上取得 F1=0.702。 其他指标为 F1=0.703、IoU=0.832。\n\n问题：ChangeStar 在 CLCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.702[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CDD 数据集上取得 F1=0.826。 其他指标为 F1=0.808、IoU=0.935。\n\n问题：TinyCD 在 CDD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.826[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 WHU-CD 数据集上取得 F1=0.831。\n\n问题：ChangerEx 在 WHU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.831[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SECOND 数据集上取得 mIoU=0.899。\n\n问题：TinyCD 在 SECOND 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.899[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CLCD 数据集上取得 Precision=0.761。 其他指标为 F1=0.775、IoU=0.907。\n\n问题：DMINet 在 CLCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.761[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 LEVIR-CD 数据集上取得 F1=0.801。\n\n问题：BIT 在 LEVIR-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.801[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 数据集上取得 Recall=0.702。\n\n问题：ChangeStar 在 LEVIR-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.702[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 HRSCD 数据集上取得 Recall=0.896。 其他指标为 F1=0.914、IoU=0.724。\n\n问题：ChangeStar 在 HRSCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.896[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SYSU-CD 数据集上取得 IoU=0.925。 其他指标为 F1=0.842、IoU=0.768。\n\n问题：ChangeFormer 在 SYSU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.925[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CDD 数据集上取得 Precision=0.841。\n\n问题：BIT 在 CDD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.841[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 LEVIR-CD 数据集上取得 IoU=0.847。 其他指标为 F1=0.878、IoU=0.800。\n\n问题：HANet 在 LEVIR-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.847[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CDD 数据集上取得 IoU=0.841。 其他指标为 F1=0.912、IoU=0.869。\n\n问题：BIT 在 CDD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.841[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 HRSCD 数据集上取得 Recall=0.735。 其他指标为 F1=0.881、IoU=0.825。\n\n问题：HANet 在 HRSCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.735[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 LEVIR-CD 数据集上取得 F1=0.809。 其他指标为 F1=0.785、IoU=0.892。\n\n问题：HANet 在 LEVIR-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.809[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SECOND 数据集上取得 F1=0.859。 其他指标为 F1=0.813、IoU=0.757。\n\n问题：DMINet 在 SECOND 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.859[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 HRSCD 数据集上取得 IoU=0.870。 其他指标为 F1=0.721、IoU=0.855。\n\n问题：DMINet 在 HRSCD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.870[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 WHU-CD 数据集上取得 F1=0.767。\n\n问题：SNUNet 在 WHU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.767[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 HRSCD 数据集上取得 mIoU=0.790。\n\n问题：ChangerEx 在 HRSCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.790[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CLCD 数据集上取得 mIoU=0.890。\n\n问题：TinyCD 在 CLCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.890[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 S2Looking 数据集上取得 OA=0.812。 其他指标为 F1=0.802、IoU=0.707。\n\n问题：BIT 在 S2Looking 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.812[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 WHU-CD 数据集上取得 Precision=0.850。\n\n问题：HANet 在 WHU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.850[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 LEVIR-CD 数据集上取得 mIoU=0.803。 其他指标为 F1=0.881、IoU=0.840。\n\n问题：DMINet 在 LEVIR-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.803[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 S2Looking 数据集上取得 Recall=0.795。\n\n问题：SNUNet 在 S2Looking 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.795[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CDD 数据集上取得 OA=0.736。\n\n问题：TinyCD 在 CDD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.736[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 HRSCD 数据集上取得 mIoU=0.821。\n\n问题：TinyCD 在 HRSCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.821[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SYSU-CD 数据集上取得 Recall=0.856。 其他指标为 F1=0.749、IoU=0.727。\n\n问题：TinyCD 在 SYSU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.856[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 LEVIR-CD 数据集上取得 OA=0.783。 其他指标为 F1=0.901、IoU=0.782。\n\n问题：TinyCD 在 LEVIR-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.783[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 HRSCD 数据集上取得 Recall=0.944。\n\n问题：HANet 在 HRSCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.944[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SYSU-CD 数据集上取得 OA=0.779。 其他指标为 F1=0.942、IoU=0.773。\n\n问题：HANet 在 SYSU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.779[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 数据集上取得 mIoU=0.794。 其他指标为 F1=0.798、IoU=0.728。\n\n问题：ChangeStar 在 SYSU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.794[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 S2Looking 数据集上取得 Recall=0.892。\n\n问题：SNUNet 在 S2Looking 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.892[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 数据集上取得 OA=0.899。 其他指标为 F1=0.717、IoU=0.912。\n\n问题：ChangeStar 在 SYSU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.899[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CLCD 数据集上取得 IoU=0.858。\n\n问题：DMINet 在 CLCD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.858[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 HRSCD 数据集上取得 OA=0.718。 其他指标为 F1=0.820、IoU=0.800。\n\n问题：ChangerEx 在 HRSCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.718[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 LEVIR-CD 数据集上取得 mIoU=0.875。 其他指标为 F1=0.848、IoU=0.929。\n\n问题：DMINet 在 LEVIR-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.875[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SYSU-CD 数据集上取得 Recall=0.866。\n\n问题：BIT 在 SYSU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.866[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 HRSCD 数据集上取得 mIoU=0.941。\n\n问题：ChangeFormer 在 HRSCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.941[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 WHU-CD 数据集上取得 mIoU=0.756。 其他指标为 F1=0.839、IoU=0.872。\n\n问题：ChangeFormer 在 WHU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.756[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CLCD 数据集上取得 mIoU=0.798。 其他指标为 F1=0.847、IoU=0.825。\n\n问题：SNUNet 在 CLCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.798[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 LEVIR-CD 数据集上取得 OA=0.726。\n\n问题：HANet 在 LEVIR-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.726[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 WHU-CD 数据集上取得 Recall=0.735。\n\n问题：BIT 在 WHU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.735[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 数据集上取得 Precision=0.821。\n\n问题：ChangeStar 在 SYSU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.821[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CLCD 数据集上取得 mIoU=0.717。\n\n问题：ChangeStar 在 CLCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.717[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 LEVIR-CD 数据集上取得 mIoU=0.862。 其他指标为 F1=0.741、IoU=0.946。\n\n问题：BIT 在 LEVIR-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.862[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 S2Looking 数据集上取得 Precision=0.740。 其他指标为 F1=0.940、IoU=0.758。\n\n问题：SNUNet 在 S2Looking 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.740[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 数据集上取得 IoU=0.860。\n\n问题：DMINet 在 S2Looking 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.860[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SYSU-CD 数据集上取得 OA=0.848。\n\n问题：ChangeFormer 在 SYSU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.848[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SYSU-CD 数据集上取得 mIoU=0.888。 其他指标为 F1=0.716、IoU=0.725。\n\n问题：SNUNet 在 SYSU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.888[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 SECOND 数据集上取得 mIoU=0.749。\n\n问题：ChangerEx 在 SECOND 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.749[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SECOND 数据集上取得 Precision=0.797。\n\n问题：ChangeStar 在 SECOND 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.797[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SECOND 数据集上取得 mIoU=0.911。 其他指标为 F1=0.903、IoU=0.876。\n\n问题：BIT 在 SECOND 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.911[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 WHU-CD 数据集上取得 Recall=0.733。\n\n问题：TinyCD 在 WHU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.733[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 WHU-CD 数据集上取得 IoU=0.793。\n\n问题：TinyCD 在 WHU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.793[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 HRSCD 数据集上取得 Precision=0.734。\n\n问题：DMINet 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.734[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CLCD 数据集上取得 Recall=0.834。 其他指标为 F1=0.933、IoU=0.743。\n\n问题：ChangerEx 在 CLCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.834[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CLCD 数据集上取得 mIoU=0.735。\n\n问题：ChangerEx 在 CLCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.735[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 数据集上取得 mIoU=0.938。\n\n问题：ChangeStar 在 LEVIR-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.938[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 HRSCD 数据集上取得 Precision=0.826。\n\n问题：SNUNet 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.826[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 HRSCD 数据集上取得 Recall=0.910。\n\n问题：ChangeStar 在 HRSCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.910[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 LEVIR-CD 数据集上取得 IoU=0.773。\n\n问题：BIT 在 LEVIR-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.773[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 S2Looking 数据集上取得 OA=0.841。 其他指标为 F1=0.824、IoU=0.828。\n\n问题：TinyCD 在 S2Looking 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.841[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CDD 数据集上取得 Precision=0.906。\n\n问题：BIT 在 CDD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.906[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CLCD 数据集上取得 Precision=0.755。\n\n问题：ChangeFormer 在 CLCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.755[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CDD 数据集上取得 F1=0.812。\n\n问题：SNUNet 在 CDD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.812[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CLCD 数据集上取得 F1=0.894。\n\n问题：BIT 在 CLCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.894[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 HRSCD 数据集上取得 IoU=0.854。 其他指标为 F1=0.903、IoU=0.901。\n\n问题：HANet 在 HRSCD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.854[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CDD 数据集上取得 Precision=0.835。\n\n问题：HANet 在 CDD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.835[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CDD 数据集上取得 Precision=0.767。 其他指标为 F1=0.946、IoU=0.870。\n\n问题：TinyCD 在 CDD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.767[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 S2Looking 数据集上取得 OA=0.930。 其他指标为 F1=0.917、IoU=0.732。\n\n问题：BIT 在 S2Looking 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.930[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 SYSU-CD 数据集上取得 IoU=0.878。 其他指标为 F1=0.890、IoU=0.869。\n\n问题：ChangerEx 在 SYSU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.878[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 S2Looking 数据集上取得 Precision=0.858。 其他指标为 F1=0.794、IoU=0.719。\n\n问题：ChangeStar 在 S2Looking 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.858[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 HRSCD 数据集上取得 Precision=0.887。 其他指标为 F1=0.919、IoU=0.814。\n\n问题：BIT 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.887[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SECOND 数据集上取得 Precision=0.701。 其他指标为 F1=0.883、IoU=0.883。\n\n问题：ChangeStar 在 SECOND 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.701[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SECOND 数据集上取得 F1=0.899。\n\n问题：ChangeStar 在 SECOND 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.899[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SYSU-CD 数据集上取得 OA=0.767。 其他指标为 F1=0.784、IoU=0.844。\n\n问题：DMINet 在 SYSU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.767[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SECOND 数据集上取得 Recall=0.891。\n\n问题：ChangeStar 在 SECOND 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.891[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 数据集上取得 F1=0.932。\n\n问题：ChangeStar 在 LEVIR-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.932[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 数据集上取得 OA=0.751。 其他指标为 F1=0.733、IoU=0.862。\n\n问题：ChangeStar 在 LEVIR-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.751[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CDD 数据集上取得 F1=0.864。\n\n问题：ChangerEx 在 CDD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.864[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 S2Looking 数据集上取得 F1=0.799。\n\n问题：HANet 在 S2Looking 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.799[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 HRSCD 数据集上取得 Recall=0.723。\n\n问题：SNUNet 在 HRSCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.723[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CLCD 数据集上取得 F1=0.733。\n\n问题：SNUNet 在 CLCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.733[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 数据集上取得 F1=0.874。 其他指标为 F1=0.947、IoU=0.806。\n\n问题：ChangeStar 在 LEVIR-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.874[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CLCD 数据集上取得 F1=0.757。\n\n问题：ChangerEx 在 CLCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.757[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 WHU-CD 数据集上取得 mIoU=0.792。\n\n问题：BIT 在 WHU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.792[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 数据集上取得 Recall=0.948。\n\n问题：DMINet 在 S2Looking 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.948[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 S2Looking 数据集上取得 OA=0.788。\n\n问题：ChangeFormer 在 S2Looking 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.788[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 HRSCD 数据集上取得 Precision=0.872。 其他指标为 F1=0.722、IoU=0.725。\n\n问题：ChangerEx 在 HRSCD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.872[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 HRSCD 数据集上取得 mIoU=0.941。\n\n问题：BIT 在 HRSCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.941[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 SYSU-CD 数据集上取得 mIoU=0.861。\n\n问题：ChangerEx 在 SYSU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.861[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 LEVIR-CD 数据集上取得 Recall=0.919。\n\n问题：TinyCD 在 LEVIR-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.919[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 HRSCD 数据集上取得 mIoU=0.862。 其他指标为 F1=0.898、IoU=0.760。\n\n问题：SNUNet 在 HRSCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.862[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 WHU-CD 数据集上取得 IoU=0.825。 其他指标为 F1=0.832、IoU=0.944。\n\n问题：DMINet 在 WHU-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.825[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SECOND 数据集上取得 IoU=0.797。 其他指标为 F1=0.805、IoU=0.837。\n\n问题：HANet 在 SECOND 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.797[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CLCD 数据集上取得 F1=0.704。\n\n问题：ChangerEx 在 CLCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.704[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SYSU-CD 数据集上取得 F1=0.931。 其他指标为 F1=0.799、IoU=0.772。\n\n问题：TinyCD 在 SYSU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.931[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 HRSCD 数据集上取得 Recall=0.801。 其他指标为 F1=0.834、IoU=0.738。\n\n问题：DMINet 在 HRSCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.801[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CDD 数据集上取得 F1=0.828。\n\n问题：BIT 在 CDD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.828[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 SECOND 数据集上取得 OA=0.847。 其他指标为 F1=0.862、IoU=0.861。\n\n问题：ChangerEx 在 SECOND 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.847[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 HRSCD 数据集上取得 Recall=0.938。\n\n问题：TinyCD 在 HRSCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.938[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 WHU-CD 数据集上取得 OA=0.729。 其他指标为 F1=0.714、IoU=0.867。\n\n问题：SNUNet 在 WHU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.729[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 WHU-CD 数据集上取得 F1=0.877。 其他指标为 F1=0.741、IoU=0.938。\n\n问题：ChangerEx 在 WHU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.877[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 S2Looking 数据集上取得 mIoU=0.732。 其他指标为 F1=0.767、IoU=0.922。\n\n问题：TinyCD 在 S2Looking 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.732[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SECOND 数据集上取得 OA=0.768。\n\n问题：ChangeFormer 在 SECOND 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.768[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CLCD 数据集上取得 OA=0.828。\n\n问题：BIT 在 CLCD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.828[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 SECOND 数据集上取得 IoU=0.764。\n\n问题：ChangerEx 在 SECOND 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.764[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SYSU-CD 数据集上取得 Recall=0.827。\n\n问题：BIT 在 SYSU-CD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.827[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SYSU-CD 数据集上取得 F1=0.818。\n\n问题：ChangeFormer 在 SYSU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.818[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 S2Looking 数据集上取得 F1=0.838。 其他指标为 F1=0.885、IoU=0.805。\n\n问题：ChangerEx 在 S2Looking 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.838[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SYSU-CD 数据集上取得 OA=0.929。\n\n问题：HANet 在 SYSU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.929[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SECOND 数据集上取得 F1=0.826。 其他指标为 F1=0.745、IoU=0.901。\n\n问题：BIT 在 SECOND 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.826[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 HRSCD 数据集上取得 F1=0.919。 其他指标为 F1=0.893、IoU=0.778。\n\n问题：ChangeFormer 在 HRSCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.919[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CLCD 数据集上取得 F1=0.792。\n\n问题：BIT 在 CLCD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.792[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SYSU-CD 数据集上取得 OA=0.792。 其他指标为 F1=0.949、IoU=0.894。\n\n问题：TinyCD 在 SYSU-CD 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.792[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 S2Looking 数据集上取得 F1=0.933。\n\n问题：SNUNet 在 S2Looking 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.933[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 LEVIR-CD 数据集上取得 mIoU=0.700。 其他指标为 F1=0.912、IoU=0.882。\n\n问题：HANet 在 LEVIR-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.700[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SYSU-CD 数据集上取得 Precision=0.946。\n\n问题：BIT 在 SYSU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.946[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 S2Looking 数据集上取得 Recall=0.770。\n\n问题：ChangeFormer 在 S2Looking 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.770[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 HRSCD 数据集上取得 Recall=0.924。\n\n问题：SNUNet 在 HRSCD 上的 Recall 是多少？"}, {"from": "gpt", "value": "Recall 为 0.924[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 WHU-CD 数据集上取得 Precision=0.733。 其他指标为 F1=0.719、IoU=0.842。\n\n问题：BIT 在 WHU-CD 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.733[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 数据集上取得 IoU=0.773。 其他指标为 F1=0.932、IoU=0.798。\n\n问题：DMINet 在 S2Looking 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.773[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SECOND 数据集上取得 OA=0.768。\n\n问题：HANet 在 SECOND 上的 OA 是多少？"}, {"from": "gpt", "value": "OA 为 0.768[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 S2Looking 数据集上取得 Precision=0.727。\n\n问题：SNUNet 在 S2Looking 上的 Precision 是多少？"}, {"from": "gpt", "value": "Precision 为 0.727[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CLCD 数据集上取得 mIoU=0.802。 其他指标为 F1=0.941、IoU=0.752。\n\n问题：ChangeStar 在 CLCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.802[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CLCD 数据集上取得 mIoU=0.913。\n\n问题：TinyCD 在 CLCD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.913[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 LEVIR-CD 数据集上取得 IoU=0.909。\n\n问题：TinyCD 在 LEVIR-CD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.909[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SYSU-CD 数据集上取得 mIoU=0.799。\n\n问题：BIT 在 SYSU-CD 上的 mIoU 是多少？"}, {"from": "gpt", "value": "mIoU 为 0.799[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CDD 数据集上取得 IoU=0.708。\n\n问题：TinyCD 在 CDD 上的 IoU 是多少？"}, {"from": "gpt", "value": "IoU 为 0.708[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 数据集上取得 F1=0.816。 其他指标为 F1=0.735、IoU=0.703。\n\n问题：ChangeStar 在 SYSU-CD 上的 F1 是多少？"}, {"from": "gpt", "value": "F1 为 0.816[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 S2Looking、SYSU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 S2Looking 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 WHU-CD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 LEVIR-CD、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 BIT[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 S2Looking、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 S2Looking 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 WHU-CD、LEVIR-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 S2Looking、HRSCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 S2Looking 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 CLCD、LEVIR-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 S2Looking、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 CDD、CDD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 LEVIR-CD、SYSU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 HRSCD、CLCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeStar[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 HRSCD、S2Looking 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 TinyCD[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 LEVIR-CD、HRSCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 CLCD、CLCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 HANet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 HRSCD、CDD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 HANet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 SYSU-CD、LEVIR-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SYSU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 LEVIR-CD、CLCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 S2Looking、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 SNUNet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 CDD、LEVIR-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 HRSCD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 HRSCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 S2Looking、SYSU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 S2Looking 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 LEVIR-CD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 SYSU-CD、CLCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SYSU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 CLCD、LEVIR-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 SYSU-CD、LEVIR-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SYSU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 SECOND、SYSU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SECOND 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 S2Looking、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 HANet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 S2Looking、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 S2Looking 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 WHU-CD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 WHU-CD、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 S2Looking、HRSCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 S2Looking 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 SECOND、S2Looking 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SECOND 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 SYSU-CD、S2Looking 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 HANet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 S2Looking、S2Looking 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 S2Looking 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 LEVIR-CD、S2Looking 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 WHU-CD、CLCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 SNUNet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 SYSU-CD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SYSU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 WHU-CD、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 SYSU-CD、SYSU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SYSU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 CDD、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 HRSCD、CLCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 HRSCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 HRSCD、CLCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 HRSCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 HRSCD、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 HRSCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 S2Looking、CLCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 SNUNet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 CDD、LEVIR-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeFormer[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 WHU-CD、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 BIT[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 S2Looking、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 S2Looking 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 SECOND、CLCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SECOND 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 S2Looking、HRSCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 SECOND、SYSU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SECOND 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 CDD、CDD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 LEVIR-CD、HRSCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 S2Looking、LEVIR-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeStar[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 WHU-CD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 SYSU-CD、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeStar[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 CDD、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 CDD、HRSCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 BIT[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 WHU-CD、HRSCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 TinyCD[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 SECOND、S2Looking 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 CLCD、CLCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 TinyCD[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 LEVIR-CD、S2Looking 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 WHU-CD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 SYSU-CD、LEVIR-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SYSU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 CLCD、SYSU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 HRSCD、LEVIR-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 HRSCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 WHU-CD、CLCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 SYSU-CD、SYSU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 WHU-CD、HRSCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 CDD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 WHU-CD、HRSCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 CDD、CLCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 HRSCD、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeFormer[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 WHU-CD、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 CDD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 HRSCD、CLCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 HRSCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 LEVIR-CD、S2Looking 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeStar[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 HRSCD、LEVIR-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 SYSU-CD、LEVIR-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SYSU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 SECOND、LEVIR-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 TinyCD[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 CDD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 SYSU-CD、S2Looking 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 BIT[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 SECOND、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SECOND 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 SYSU-CD、CLCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 BIT[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 CLCD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CLCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 WHU-CD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 S2Looking、LEVIR-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 LEVIR-CD、SYSU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 SNUNet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 SECOND、SYSU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeFormer[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 HRSCD、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 HRSCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 SECOND、CLCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SECOND 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 CLCD、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 WHU-CD、CDD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 TinyCD[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 S2Looking、SYSU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 S2Looking 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 SYSU-CD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SYSU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 LEVIR-CD、CLCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 LEVIR-CD、SYSU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 CDD、HRSCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 CLCD、CDD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 HANet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 HRSCD、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 TinyCD[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 CDD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 WHU-CD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 CDD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 SYSU-CD、S2Looking 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SYSU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 LEVIR-CD、HRSCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 LEVIR-CD、CLCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 HRSCD、HRSCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 TinyCD[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 SYSU-CD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SYSU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 CLCD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CLCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 S2Looking、CDD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 CDD、S2Looking 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 WHU-CD、SYSU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 HANet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 HRSCD、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 TinyCD[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 CLCD、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 TinyCD[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 CLCD、SYSU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CLCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 CDD、HRSCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 S2Looking、SYSU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 S2Looking、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 S2Looking 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 WHU-CD、CLCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 SECOND、LEVIR-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 SYSU-CD、S2Looking 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SYSU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 CLCD、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 HRSCD、HRSCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 HRSCD、LEVIR-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeStar[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 SECOND、LEVIR-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SECOND 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 LEVIR-CD、LEVIR-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 SYSU-CD、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 SNUNet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 HRSCD、CDD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 BIT[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 CDD、CDD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeFormer[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 HRSCD、S2Looking 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 HANet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 SECOND、SYSU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeStar[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 LEVIR-CD、SYSU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 SYSU-CD、LEVIR-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SYSU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 WHU-CD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 HRSCD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 HRSCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 LEVIR-CD、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 LEVIR-CD、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeFormer[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 WHU-CD、CDD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 SYSU-CD、LEVIR-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 CDD、S2Looking 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 BIT[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 WHU-CD、CDD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 BIT[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 CLCD、SYSU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CLCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 SYSU-CD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SYSU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 S2Looking、LEVIR-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 S2Looking 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 CLCD、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 SNUNet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 WHU-CD、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 S2Looking、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 S2Looking 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 WHU-CD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 CDD、CDD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeStar[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 S2Looking、LEVIR-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 S2Looking 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 SECOND、HRSCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SECOND 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 LEVIR-CD、LEVIR-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 SECOND、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SECOND 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 WHU-CD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 WHU-CD、HRSCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 CDD、HRSCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 HRSCD、S2Looking 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeStar[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 S2Looking、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeFormer[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 CLCD、S2Looking 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CLCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 LEVIR-CD、S2Looking 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 HANet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 WHU-CD、HRSCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeStar[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 CDD、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 BIT[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 SECOND、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 SNUNet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 CLCD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CLCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 S2Looking、LEVIR-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 CLCD、CLCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CLCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 CLCD、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 BIT[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 LEVIR-CD、SYSU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 HRSCD、SYSU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 CLCD、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CLCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 SECOND、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SECOND 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 WHU-CD、HRSCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeFormer[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 WHU-CD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 CLCD、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 SNUNet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 SYSU-CD、CLCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeFormer[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 SECOND、CLCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeStar[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 LEVIR-CD、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 SNUNet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 SECOND、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 TinyCD[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 CLCD、S2Looking 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CLCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 WHU-CD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 WHU-CD、HRSCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 SNUNet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 SECOND、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SECOND 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 WHU-CD、CLCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeFormer[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 CLCD、LEVIR-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CLCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 HRSCD、CLCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 HRSCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 S2Looking、S2Looking 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 HRSCD、HRSCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 HRSCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 CDD、HRSCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 CLCD、S2Looking 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 TinyCD[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 SECOND、SYSU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 TinyCD[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 SECOND、S2Looking 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SECOND 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 SECOND、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SECOND 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 HRSCD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 HRSCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 LEVIR-CD、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 LEVIR-CD、LEVIR-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 CDD、CDD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 CDD、SYSU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 SECOND、CLCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeFormer[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 HRSCD、SYSU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 HRSCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 LEVIR-CD、HRSCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 TinyCD[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 LEVIR-CD、LEVIR-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 CLCD、SYSU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CLCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 SYSU-CD、SYSU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 HANet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 WHU-CD、S2Looking 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 HRSCD、LEVIR-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 BIT[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 S2Looking、S2Looking 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 S2Looking 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 LEVIR-CD、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 TinyCD[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 LEVIR-CD、S2Looking 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 CDD、CLCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 WHU-CD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 WHU-CD、S2Looking 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 WHU-CD、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 SECOND、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 SNUNet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 CLCD、LEVIR-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 SNUNet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 CLCD、SYSU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CLCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 LEVIR-CD、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 SNUNet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 HRSCD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 HRSCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 LEVIR-CD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 CLCD、LEVIR-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeStar[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 SECOND、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SECOND 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 LEVIR-CD、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 HRSCD、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 SNUNet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 WHU-CD、S2Looking 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 LEVIR-CD、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 HANet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 CDD、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 CDD、HRSCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 SNUNet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 HRSCD、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 LEVIR-CD、WHU-CD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 LEVIR-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 WHU-CD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 CDD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 CLCD、HRSCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 TinyCD[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 CLCD、S2Looking 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CLCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 HRSCD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 HRSCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 CDD、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 S2Looking、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeFormer[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 WHU-CD、CDD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 SYSU-CD、HRSCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SYSU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 S2Looking、S2Looking 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 SYSU-CD、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 TinyCD[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeFormer，并在 CLCD、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeFormer[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 BIT，并在 CDD、WHU-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 BIT[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangeStar，并在 SECOND、SECOND 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangeStar[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 WHU-CD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 SECOND、CLCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 SNUNet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 TinyCD，并在 S2Looking、SECOND 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 S2Looking 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 DMINet，并在 S2Looking、LEVIR-CD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 DMINet[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 SNUNet，并在 HRSCD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 HRSCD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 SECOND、CLCD 上验证。\n\n问题：这篇论文提出的方法叫什么？"}, {"from": "gpt", "value": "方法为 ChangerEx[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 HANet，并在 CDD、CLCD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 CDD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 WHU-CD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 WHU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：本文提出 ChangerEx，并在 SYSU-CD、CDD 上验证。\n\n问题：这篇论文在哪些数据集上做了实验？"}, {"from": "gpt", "value": "在 SYSU-CD 等数据集上验证[1]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 WHU-CD 上取得 F1=0.923、IoU=0.912、Precision=0.858、Recall=0.903。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SYSU-CD 上取得 F1=0.927、IoU=0.838、Precision=0.836、Recall=0.950。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 SECOND 上取得 F1=0.798、IoU=0.923、Precision=0.847、Recall=0.914。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 WHU-CD 上取得 F1=0.799、IoU=0.826、Precision=0.866、Recall=0.912。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 S2Looking 上取得 F1=0.812、IoU=0.745、Precision=0.937、Recall=0.865。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SECOND 上取得 F1=0.710、IoU=0.890、Precision=0.758、Recall=0.766。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SYSU-CD 上取得 F1=0.829、IoU=0.898、Precision=0.797、Recall=0.929。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SECOND 上取得 F1=0.726、IoU=0.942、Precision=0.858、Recall=0.768。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 S2Looking 上取得 F1=0.794、IoU=0.795、Precision=0.847、Recall=0.925。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 HRSCD 上取得 F1=0.943、IoU=0.756、Precision=0.801、Recall=0.904。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CLCD 上取得 F1=0.922、IoU=0.702、Precision=0.921、Recall=0.810。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CDD 上取得 F1=0.753、IoU=0.747、Precision=0.791、Recall=0.879。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 HRSCD 上取得 F1=0.903、IoU=0.880、Precision=0.820、Recall=0.820。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 HRSCD 上取得 F1=0.706、IoU=0.711、Precision=0.843、Recall=0.740。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 S2Looking 上取得 F1=0.714、IoU=0.765、Precision=0.745、Recall=0.940。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CDD 上取得 F1=0.937、IoU=0.754、Precision=0.852、Recall=0.818。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 SYSU-CD 上取得 F1=0.908、IoU=0.850、Precision=0.899、Recall=0.905。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 S2Looking 上取得 F1=0.881、IoU=0.786、Precision=0.813、Recall=0.848。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 HRSCD 上取得 F1=0.733、IoU=0.704、Precision=0.831、Recall=0.927。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 上取得 F1=0.851、IoU=0.744、Precision=0.925、Recall=0.850。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 WHU-CD 上取得 F1=0.821、IoU=0.733、Precision=0.851、Recall=0.907。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 HRSCD 上取得 F1=0.793、IoU=0.711、Precision=0.832、Recall=0.757。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SECOND 上取得 F1=0.847、IoU=0.885、Precision=0.890、Recall=0.874。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 上取得 F1=0.764、IoU=0.891、Precision=0.928、Recall=0.721。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CDD 上取得 F1=0.747、IoU=0.877、Precision=0.897、Recall=0.844。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 HRSCD 上取得 F1=0.864、IoU=0.872、Precision=0.779、Recall=0.791。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CDD 上取得 F1=0.765、IoU=0.834、Precision=0.841、Recall=0.853。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SYSU-CD 上取得 F1=0.803、IoU=0.896、Precision=0.821、Recall=0.793。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CDD 上取得 F1=0.947、IoU=0.844、Precision=0.894、Recall=0.800。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SYSU-CD 上取得 F1=0.812、IoU=0.875、Precision=0.740、Recall=0.754。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 LEVIR-CD 上取得 F1=0.740、IoU=0.941、Precision=0.701、Recall=0.723。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 HRSCD 上取得 F1=0.722、IoU=0.766、Precision=0.793、Recall=0.852。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 HRSCD 上取得 F1=0.853、IoU=0.830、Precision=0.878、Recall=0.849。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CLCD 上取得 F1=0.703、IoU=0.913、Precision=0.933、Recall=0.830。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SYSU-CD 上取得 F1=0.854、IoU=0.869、Precision=0.790、Recall=0.864。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CDD 上取得 F1=0.895、IoU=0.788、Precision=0.799、Recall=0.847。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 WHU-CD 上取得 F1=0.930、IoU=0.837、Precision=0.882、Recall=0.840。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SECOND 上取得 F1=0.941、IoU=0.769、Precision=0.852、Recall=0.749。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CDD 上取得 F1=0.744、IoU=0.827、Precision=0.840、Recall=0.826。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CDD 上取得 F1=0.919、IoU=0.903、Precision=0.844、Recall=0.874。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 上取得 F1=0.889、IoU=0.940、Precision=0.815、Recall=0.815。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CLCD 上取得 F1=0.729、IoU=0.717、Precision=0.858、Recall=0.949。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SECOND 上取得 F1=0.803、IoU=0.788、Precision=0.834、Recall=0.875。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CDD 上取得 F1=0.723、IoU=0.868、Precision=0.905、Recall=0.719。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SECOND 上取得 F1=0.788、IoU=0.924、Precision=0.767、Recall=0.937。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CLCD 上取得 F1=0.884、IoU=0.759、Precision=0.761、Recall=0.766。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SYSU-CD 上取得 F1=0.909、IoU=0.789、Precision=0.895、Recall=0.730。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 上取得 F1=0.891、IoU=0.835、Precision=0.711、Recall=0.821。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CLCD 上取得 F1=0.925、IoU=0.920、Precision=0.844、Recall=0.769。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 HRSCD 上取得 F1=0.756、IoU=0.844、Precision=0.714、Recall=0.900。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SECOND 上取得 F1=0.798、IoU=0.872、Precision=0.744、Recall=0.944。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SECOND 上取得 F1=0.872、IoU=0.703、Precision=0.753、Recall=0.845。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CDD 上取得 F1=0.747、IoU=0.766、Precision=0.767、Recall=0.940。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 S2Looking 上取得 F1=0.825、IoU=0.753、Precision=0.875、Recall=0.793。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CLCD 上取得 F1=0.745、IoU=0.733、Precision=0.844、Recall=0.757。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SYSU-CD 上取得 F1=0.839、IoU=0.914、Precision=0.749、Recall=0.900。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CLCD 上取得 F1=0.901、IoU=0.744、Precision=0.825、Recall=0.949。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CLCD 上取得 F1=0.775、IoU=0.841、Precision=0.842、Recall=0.800。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 LEVIR-CD 上取得 F1=0.754、IoU=0.764、Precision=0.910、Recall=0.724。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CDD 上取得 F1=0.790、IoU=0.840、Precision=0.933、Recall=0.764。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 WHU-CD 上取得 F1=0.788、IoU=0.870、Precision=0.851、Recall=0.844。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CDD 上取得 F1=0.789、IoU=0.868、Precision=0.822、Recall=0.884。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CDD 上取得 F1=0.816、IoU=0.939、Precision=0.917、Recall=0.860。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 HRSCD 上取得 F1=0.912、IoU=0.718、Precision=0.740、Recall=0.757。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CDD 上取得 F1=0.851、IoU=0.799、Precision=0.922、Recall=0.895。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 HRSCD 上取得 F1=0.742、IoU=0.914、Precision=0.731、Recall=0.759。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SYSU-CD 上取得 F1=0.742、IoU=0.726、Precision=0.716、Recall=0.920。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 LEVIR-CD 上取得 F1=0.893、IoU=0.831、Precision=0.949、Recall=0.726。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 WHU-CD 上取得 F1=0.864、IoU=0.921、Precision=0.777、Recall=0.762。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 S2Looking 上取得 F1=0.733、IoU=0.910、Precision=0.707、Recall=0.866。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CLCD 上取得 F1=0.944、IoU=0.835、Precision=0.768、Recall=0.811。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CLCD 上取得 F1=0.858、IoU=0.859、Precision=0.841、Recall=0.831。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SECOND 上取得 F1=0.820、IoU=0.757、Precision=0.722、Recall=0.777。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 S2Looking 上取得 F1=0.776、IoU=0.700、Precision=0.904、Recall=0.912。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CLCD 上取得 F1=0.834、IoU=0.872、Precision=0.823、Recall=0.889。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 HRSCD 上取得 F1=0.899、IoU=0.849、Precision=0.899、Recall=0.837。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 HRSCD 上取得 F1=0.799、IoU=0.741、Precision=0.884、Recall=0.797。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CDD 上取得 F1=0.720、IoU=0.856、Precision=0.829、Recall=0.900。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CDD 上取得 F1=0.862、IoU=0.833、Precision=0.767、Recall=0.747。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 S2Looking 上取得 F1=0.772、IoU=0.859、Precision=0.854、Recall=0.768。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 上取得 F1=0.780、IoU=0.738、Precision=0.942、Recall=0.706。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CDD 上取得 F1=0.731、IoU=0.810、Precision=0.702、Recall=0.723。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 上取得 F1=0.785、IoU=0.778、Precision=0.900、Recall=0.949。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SECOND 上取得 F1=0.720、IoU=0.888、Precision=0.737、Recall=0.767。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CLCD 上取得 F1=0.745、IoU=0.924、Precision=0.763、Recall=0.795。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SYSU-CD 上取得 F1=0.796、IoU=0.944、Precision=0.762、Recall=0.949。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 WHU-CD 上取得 F1=0.830、IoU=0.946、Precision=0.818、Recall=0.870。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 S2Looking 上取得 F1=0.857、IoU=0.711、Precision=0.934、Recall=0.830。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CDD 上取得 F1=0.750、IoU=0.922、Precision=0.916、Recall=0.754。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 HRSCD 上取得 F1=0.781、IoU=0.742、Precision=0.769、Recall=0.730。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 LEVIR-CD 上取得 F1=0.845、IoU=0.873、Precision=0.872、Recall=0.739。\n\n问题：这篇论文的训练学习率是多少？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 S2Looking 上取得 F1=0.825、IoU=0.871、Precision=0.785、Recall=0.942。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 LEVIR-CD 上取得 F1=0.789、IoU=0.738、Precision=0.834、Recall=0.727。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SECOND 上取得 F1=0.945、IoU=0.897、Precision=0.889、Recall=0.901。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 LEVIR-CD 上取得 F1=0.872、IoU=0.790、Precision=0.734、Recall=0.925。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CDD 上取得 F1=0.836、IoU=0.823、Precision=0.842、Recall=0.836。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CDD 上取得 F1=0.917、IoU=0.850、Precision=0.915、Recall=0.740。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CLCD 上取得 F1=0.774、IoU=0.766、Precision=0.792、Recall=0.700。\n\n问题：论文中关于无关主题的结论是什么？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 上取得 F1=0.921、IoU=0.855、Precision=0.791、Recall=0.855。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 HRSCD 上取得 F1=0.747、IoU=0.871、Precision=0.891、Recall=0.739。\n\n问题：该方法在海洋遥感上的表现如何？"}, {"from": "gpt", "value": "根据已有论文无法回答该问题，证据中未提及相关内容。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SECOND 上 F1=0.728。\n证据[2]：SNUNet 在 SECOND 上 F1=0.831。\n\n问题：HANet 和 SNUNet 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "SNUNet 的 F1（0.831）高于 HANet（0.728）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 S2Looking 上 F1=0.745。\n证据[2]：ChangeFormer 在 S2Looking 上 F1=0.708。\n\n问题：BIT 和 ChangeFormer 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.745）高于 ChangeFormer（0.708）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SYSU-CD 上 F1=0.725。\n证据[2]：SNUNet 在 SYSU-CD 上 F1=0.843。\n\n问题：BIT 和 SNUNet 在 SYSU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "SNUNet 的 F1（0.843）高于 BIT（0.725）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CLCD 上 F1=0.831。\n证据[2]：HANet 在 CLCD 上 F1=0.875。\n\n问题：DMINet 和 HANet 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.875）高于 DMINet（0.831）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SECOND 上 F1=0.755。\n证据[2]：ChangeFormer 在 SECOND 上 F1=0.879。\n\n问题：TinyCD 和 ChangeFormer 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeFormer 的 F1（0.879）高于 TinyCD（0.755）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CLCD 上 F1=0.932。\n证据[2]：BIT 在 CLCD 上 F1=0.908。\n\n问题：ChangeFormer 和 BIT 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeFormer 的 F1（0.932）高于 BIT（0.908）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 上 F1=0.790。\n证据[2]：DMINet 在 LEVIR-CD 上 F1=0.886。\n\n问题：ChangeStar 和 DMINet 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.886）高于 ChangeStar（0.790）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SECOND 上 F1=0.899。\n证据[2]：ChangeStar 在 SECOND 上 F1=0.715。\n\n问题：DMINet 和 ChangeStar 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.899）高于 ChangeStar（0.715）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 LEVIR-CD 上 F1=0.884。\n证据[2]：ChangeStar 在 LEVIR-CD 上 F1=0.909。\n\n问题：TinyCD 和 ChangeStar 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeStar 的 F1（0.909）高于 TinyCD（0.884）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 WHU-CD 上 F1=0.725。\n证据[2]：ChangeStar 在 WHU-CD 上 F1=0.758。\n\n问题：BIT 和 ChangeStar 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeStar 的 F1（0.758）高于 BIT（0.725）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SYSU-CD 上 F1=0.832。\n证据[2]：BIT 在 SYSU-CD 上 F1=0.762。\n\n问题：DMINet 和 BIT 在 SYSU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.832）高于 BIT（0.762）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 HRSCD 上 F1=0.887。\n证据[2]：TinyCD 在 HRSCD 上 F1=0.892。\n\n问题：ChangerEx 和 TinyCD 在 HRSCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.892）高于 ChangerEx（0.887）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CLCD 上 F1=0.876。\n证据[2]：ChangeStar 在 CLCD 上 F1=0.807。\n\n问题：HANet 和 ChangeStar 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.876）高于 ChangeStar（0.807）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 S2Looking 上 F1=0.837。\n证据[2]：ChangeStar 在 S2Looking 上 F1=0.826。\n\n问题：BIT 和 ChangeStar 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.837）高于 ChangeStar（0.826）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CLCD 上 F1=0.933。\n证据[2]：TinyCD 在 CLCD 上 F1=0.926。\n\n问题：ChangerEx 和 TinyCD 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.933）高于 TinyCD（0.926）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SECOND 上 F1=0.803。\n证据[2]：DMINet 在 SECOND 上 F1=0.858。\n\n问题：HANet 和 DMINet 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.858）高于 HANet（0.803）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SYSU-CD 上 F1=0.841。\n证据[2]：TinyCD 在 SYSU-CD 上 F1=0.753。\n\n问题：HANet 和 TinyCD 在 SYSU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.841）高于 TinyCD（0.753）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CLCD 上 F1=0.812。\n证据[2]：ChangerEx 在 CLCD 上 F1=0.799。\n\n问题：TinyCD 和 ChangerEx 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.812）高于 ChangerEx（0.799）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 LEVIR-CD 上 F1=0.829。\n证据[2]：ChangerEx 在 LEVIR-CD 上 F1=0.948。\n\n问题：ChangeFormer 和 ChangerEx 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.948）高于 ChangeFormer（0.829）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CDD 上 F1=0.946。\n证据[2]：ChangeFormer 在 CDD 上 F1=0.754。\n\n问题：TinyCD 和 ChangeFormer 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.946）高于 ChangeFormer（0.754）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CDD 上 F1=0.930。\n证据[2]：ChangeFormer 在 CDD 上 F1=0.828。\n\n问题：HANet 和 ChangeFormer 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.930）高于 ChangeFormer（0.828）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 LEVIR-CD 上 F1=0.815。\n证据[2]：ChangeFormer 在 LEVIR-CD 上 F1=0.739。\n\n问题：ChangerEx 和 ChangeFormer 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.815）高于 ChangeFormer（0.739）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SYSU-CD 上 F1=0.758。\n证据[2]：ChangerEx 在 SYSU-CD 上 F1=0.903。\n\n问题：TinyCD 和 ChangerEx 在 SYSU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.903）高于 TinyCD（0.758）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 HRSCD 上 F1=0.842。\n证据[2]：TinyCD 在 HRSCD 上 F1=0.754。\n\n问题：BIT 和 TinyCD 在 HRSCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.842）高于 TinyCD（0.754）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SECOND 上 F1=0.898。\n证据[2]：HANet 在 SECOND 上 F1=0.743。\n\n问题：BIT 和 HANet 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.898）高于 HANet（0.743）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CDD 上 F1=0.709。\n证据[2]：TinyCD 在 CDD 上 F1=0.902。\n\n问题：BIT 和 TinyCD 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.902）高于 BIT（0.709）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 LEVIR-CD 上 F1=0.930。\n证据[2]：ChangeFormer 在 LEVIR-CD 上 F1=0.784。\n\n问题：DMINet 和 ChangeFormer 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.930）高于 ChangeFormer（0.784）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 WHU-CD 上 F1=0.917。\n证据[2]：SNUNet 在 WHU-CD 上 F1=0.757。\n\n问题：DMINet 和 SNUNet 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.917）高于 SNUNet（0.757）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 HRSCD 上 F1=0.714。\n证据[2]：HANet 在 HRSCD 上 F1=0.831。\n\n问题：ChangeFormer 和 HANet 在 HRSCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.831）高于 ChangeFormer（0.714）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 S2Looking 上 F1=0.782。\n证据[2]：TinyCD 在 S2Looking 上 F1=0.874。\n\n问题：HANet 和 TinyCD 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.874）高于 HANet（0.782）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 HRSCD 上 F1=0.943。\n证据[2]：ChangeFormer 在 HRSCD 上 F1=0.888。\n\n问题：ChangerEx 和 ChangeFormer 在 HRSCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.943）高于 ChangeFormer（0.888）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 HRSCD 上 F1=0.772。\n证据[2]：ChangeStar 在 HRSCD 上 F1=0.799。\n\n问题：BIT 和 ChangeStar 在 HRSCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeStar 的 F1（0.799）高于 BIT（0.772）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 WHU-CD 上 F1=0.819。\n证据[2]：ChangeStar 在 WHU-CD 上 F1=0.886。\n\n问题：ChangerEx 和 ChangeStar 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeStar 的 F1（0.886）高于 ChangerEx（0.819）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 WHU-CD 上 F1=0.800。\n证据[2]：ChangerEx 在 WHU-CD 上 F1=0.809。\n\n问题：DMINet 和 ChangerEx 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.809）高于 DMINet（0.800）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 S2Looking 上 F1=0.820。\n证据[2]：DMINet 在 S2Looking 上 F1=0.750。\n\n问题：ChangerEx 和 DMINet 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.820）高于 DMINet（0.750）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SYSU-CD 上 F1=0.840。\n证据[2]：HANet 在 SYSU-CD 上 F1=0.949。\n\n问题：DMINet 和 HANet 在 SYSU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.949）高于 DMINet（0.840）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 WHU-CD 上 F1=0.767。\n证据[2]：BIT 在 WHU-CD 上 F1=0.808。\n\n问题：SNUNet 和 BIT 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.808）高于 SNUNet（0.767）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 HRSCD 上 F1=0.806。\n证据[2]：ChangeFormer 在 HRSCD 上 F1=0.787。\n\n问题：BIT 和 ChangeFormer 在 HRSCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.806）高于 ChangeFormer（0.787）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 LEVIR-CD 上 F1=0.892。\n证据[2]：ChangerEx 在 LEVIR-CD 上 F1=0.742。\n\n问题：HANet 和 ChangerEx 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.892）高于 ChangerEx（0.742）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CLCD 上 F1=0.856。\n证据[2]：TinyCD 在 CLCD 上 F1=0.810。\n\n问题：HANet 和 TinyCD 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.856）高于 TinyCD（0.810）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SECOND 上 F1=0.739。\n证据[2]：BIT 在 SECOND 上 F1=0.882。\n\n问题：SNUNet 和 BIT 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.882）高于 SNUNet（0.739）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 LEVIR-CD 上 F1=0.761。\n证据[2]：ChangeFormer 在 LEVIR-CD 上 F1=0.855。\n\n问题：BIT 和 ChangeFormer 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeFormer 的 F1（0.855）高于 BIT（0.761）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CDD 上 F1=0.703。\n证据[2]：DMINet 在 CDD 上 F1=0.873。\n\n问题：ChangerEx 和 DMINet 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.873）高于 ChangerEx（0.703）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CLCD 上 F1=0.818。\n证据[2]：ChangerEx 在 CLCD 上 F1=0.783。\n\n问题：BIT 和 ChangerEx 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.818）高于 ChangerEx（0.783）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CDD 上 F1=0.837。\n证据[2]：BIT 在 CDD 上 F1=0.856。\n\n问题：SNUNet 和 BIT 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.856）高于 SNUNet（0.837）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 LEVIR-CD 上 F1=0.794。\n证据[2]：HANet 在 LEVIR-CD 上 F1=0.927。\n\n问题：ChangerEx 和 HANet 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.927）高于 ChangerEx（0.794）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 S2Looking 上 F1=0.715。\n证据[2]：ChangerEx 在 S2Looking 上 F1=0.750。\n\n问题：ChangeFormer 和 ChangerEx 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.750）高于 ChangeFormer（0.715）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CLCD 上 F1=0.864。\n证据[2]：ChangeFormer 在 CLCD 上 F1=0.702。\n\n问题：TinyCD 和 ChangeFormer 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.864）高于 ChangeFormer（0.702）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CDD 上 F1=0.866。\n证据[2]：HANet 在 CDD 上 F1=0.928。\n\n问题：DMINet 和 HANet 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.928）高于 DMINet（0.866）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 WHU-CD 上 F1=0.705。\n证据[2]：DMINet 在 WHU-CD 上 F1=0.917。\n\n问题：HANet 和 DMINet 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.917）高于 HANet（0.705）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 HRSCD 上 F1=0.827。\n证据[2]：BIT 在 HRSCD 上 F1=0.877。\n\n问题：DMINet 和 BIT 在 HRSCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.877）高于 DMINet（0.827）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 WHU-CD 上 F1=0.747。\n证据[2]：SNUNet 在 WHU-CD 上 F1=0.825。\n\n问题：HANet 和 SNUNet 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "SNUNet 的 F1（0.825）高于 HANet（0.747）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 上 F1=0.710。\n证据[2]：TinyCD 在 LEVIR-CD 上 F1=0.931。\n\n问题：ChangeStar 和 TinyCD 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.931）高于 ChangeStar（0.710）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CLCD 上 F1=0.798。\n证据[2]：ChangerEx 在 CLCD 上 F1=0.739。\n\n问题：TinyCD 和 ChangerEx 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.798）高于 ChangerEx（0.739）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SECOND 上 F1=0.789。\n证据[2]：ChangeStar 在 SECOND 上 F1=0.776。\n\n问题：HANet 和 ChangeStar 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.789）高于 ChangeStar（0.776）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 LEVIR-CD 上 F1=0.856。\n证据[2]：DMINet 在 LEVIR-CD 上 F1=0.920。\n\n问题：TinyCD 和 DMINet 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.920）高于 TinyCD（0.856）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CDD 上 F1=0.756。\n证据[2]：TinyCD 在 CDD 上 F1=0.785。\n\n问题：ChangeFormer 和 TinyCD 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.785）高于 ChangeFormer（0.756）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 上 F1=0.722。\n证据[2]：HANet 在 S2Looking 上 F1=0.796。\n\n问题：DMINet 和 HANet 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.796）高于 DMINet（0.722）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SYSU-CD 上 F1=0.843。\n证据[2]：ChangeStar 在 SYSU-CD 上 F1=0.807。\n\n问题：SNUNet 和 ChangeStar 在 SYSU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "SNUNet 的 F1（0.843）高于 ChangeStar（0.807）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SECOND 上 F1=0.812。\n证据[2]：ChangeStar 在 SECOND 上 F1=0.733。\n\n问题：TinyCD 和 ChangeStar 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.812）高于 ChangeStar（0.733）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 SYSU-CD 上 F1=0.916。\n证据[2]：TinyCD 在 SYSU-CD 上 F1=0.777。\n\n问题：ChangerEx 和 TinyCD 在 SYSU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.916）高于 TinyCD（0.777）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 S2Looking 上 F1=0.864。\n证据[2]：SNUNet 在 S2Looking 上 F1=0.841。\n\n问题：ChangerEx 和 SNUNet 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.864）高于 SNUNet（0.841）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 WHU-CD 上 F1=0.839。\n证据[2]：ChangeStar 在 WHU-CD 上 F1=0.937。\n\n问题：ChangerEx 和 ChangeStar 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeStar 的 F1（0.937）高于 ChangerEx（0.839）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SECOND 上 F1=0.910。\n证据[2]：ChangeStar 在 SECOND 上 F1=0.736。\n\n问题：BIT 和 ChangeStar 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.910）高于 ChangeStar（0.736）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SECOND 上 F1=0.920。\n证据[2]：DMINet 在 SECOND 上 F1=0.804。\n\n问题：ChangeFormer 和 DMINet 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeFormer 的 F1（0.920）高于 DMINet（0.804）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 CLCD 上 F1=0.886。\n证据[2]：ChangerEx 在 CLCD 上 F1=0.905。\n\n问题：DMINet 和 ChangerEx 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.905）高于 DMINet（0.886）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SYSU-CD 上 F1=0.727。\n证据[2]：BIT 在 SYSU-CD 上 F1=0.746。\n\n问题：TinyCD 和 BIT 在 SYSU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.746）高于 TinyCD（0.727）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SYSU-CD 上 F1=0.849。\n证据[2]：ChangeStar 在 SYSU-CD 上 F1=0.758。\n\n问题：TinyCD 和 ChangeStar 在 SYSU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.849）高于 ChangeStar（0.758）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 WHU-CD 上 F1=0.872。\n证据[2]：ChangerEx 在 WHU-CD 上 F1=0.819。\n\n问题：ChangeFormer 和 ChangerEx 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeFormer 的 F1（0.872）高于 ChangerEx（0.819）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SECOND 上 F1=0.746。\n证据[2]：HANet 在 SECOND 上 F1=0.797。\n\n问题：ChangeStar 和 HANet 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.797）高于 ChangeStar（0.746）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 S2Looking 上 F1=0.748。\n证据[2]：BIT 在 S2Looking 上 F1=0.708。\n\n问题：ChangeStar 和 BIT 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeStar 的 F1（0.748）高于 BIT（0.708）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 HRSCD 上 F1=0.756。\n证据[2]：ChangerEx 在 HRSCD 上 F1=0.868。\n\n问题：ChangeFormer 和 ChangerEx 在 HRSCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.868）高于 ChangeFormer（0.756）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SYSU-CD 上 F1=0.717。\n证据[2]：DMINet 在 SYSU-CD 上 F1=0.932。\n\n问题：SNUNet 和 DMINet 在 SYSU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.932）高于 SNUNet（0.717）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CLCD 上 F1=0.872。\n证据[2]：DMINet 在 CLCD 上 F1=0.917。\n\n问题：ChangeStar 和 DMINet 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.917）高于 ChangeStar（0.872）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 HRSCD 上 F1=0.894。\n证据[2]：ChangeStar 在 HRSCD 上 F1=0.852。\n\n问题：SNUNet 和 ChangeStar 在 HRSCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "SNUNet 的 F1（0.894）高于 ChangeStar（0.852）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SECOND 上 F1=0.799。\n证据[2]：HANet 在 SECOND 上 F1=0.935。\n\n问题：DMINet 和 HANet 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.935）高于 DMINet（0.799）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 WHU-CD 上 F1=0.813。\n证据[2]：TinyCD 在 WHU-CD 上 F1=0.907。\n\n问题：ChangeFormer 和 TinyCD 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.907）高于 ChangeFormer（0.813）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 HRSCD 上 F1=0.946。\n证据[2]：BIT 在 HRSCD 上 F1=0.710。\n\n问题：ChangeFormer 和 BIT 在 HRSCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeFormer 的 F1（0.946）高于 BIT（0.710）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 LEVIR-CD 上 F1=0.747。\n证据[2]：TinyCD 在 LEVIR-CD 上 F1=0.810。\n\n问题：DMINet 和 TinyCD 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.810）高于 DMINet（0.747）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CDD 上 F1=0.815。\n证据[2]：DMINet 在 CDD 上 F1=0.806。\n\n问题：TinyCD 和 DMINet 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.815）高于 DMINet（0.806）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 S2Looking 上 F1=0.816。\n证据[2]：HANet 在 S2Looking 上 F1=0.862。\n\n问题：ChangeFormer 和 HANet 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.862）高于 ChangeFormer（0.816）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 WHU-CD 上 F1=0.745。\n证据[2]：HANet 在 WHU-CD 上 F1=0.846。\n\n问题：BIT 和 HANet 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.846）高于 BIT（0.745）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 HRSCD 上 F1=0.781。\n证据[2]：SNUNet 在 HRSCD 上 F1=0.706。\n\n问题：ChangerEx 和 SNUNet 在 HRSCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.781）高于 SNUNet（0.706）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 上 F1=0.921。\n证据[2]：TinyCD 在 SYSU-CD 上 F1=0.723。\n\n问题：ChangeStar 和 TinyCD 在 SYSU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeStar 的 F1（0.921）高于 TinyCD（0.723）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 S2Looking 上 F1=0.880。\n证据[2]：ChangeStar 在 S2Looking 上 F1=0.731。\n\n问题：HANet 和 ChangeStar 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.880）高于 ChangeStar（0.731）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CLCD 上 F1=0.859。\n证据[2]：HANet 在 CLCD 上 F1=0.721。\n\n问题：BIT 和 HANet 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.859）高于 HANet（0.721）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 上 F1=0.795。\n证据[2]：HANet 在 S2Looking 上 F1=0.795。\n\n问题：DMINet 和 HANet 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.795）高于 DMINet（0.795）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 S2Looking 上 F1=0.741。\n证据[2]：ChangeStar 在 S2Looking 上 F1=0.736。\n\n问题：ChangerEx 和 ChangeStar 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.741）高于 ChangeStar（0.736）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CDD 上 F1=0.777。\n证据[2]：SNUNet 在 CDD 上 F1=0.892。\n\n问题：ChangeFormer 和 SNUNet 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "SNUNet 的 F1（0.892）高于 ChangeFormer（0.777）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 S2Looking 上 F1=0.729。\n证据[2]：ChangerEx 在 S2Looking 上 F1=0.733。\n\n问题：ChangeStar 和 ChangerEx 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.733）高于 ChangeStar（0.729）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CDD 上 F1=0.703。\n证据[2]：ChangeFormer 在 CDD 上 F1=0.824。\n\n问题：SNUNet 和 ChangeFormer 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeFormer 的 F1（0.824）高于 SNUNet（0.703）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 上 F1=0.852。\n证据[2]：TinyCD 在 LEVIR-CD 上 F1=0.823。\n\n问题：ChangeStar 和 TinyCD 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeStar 的 F1（0.852）高于 TinyCD（0.823）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CLCD 上 F1=0.813。\n证据[2]：TinyCD 在 CLCD 上 F1=0.810。\n\n问题：SNUNet 和 TinyCD 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "SNUNet 的 F1（0.813）高于 TinyCD（0.810）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CDD 上 F1=0.855。\n证据[2]：BIT 在 CDD 上 F1=0.839。\n\n问题：ChangeFormer 和 BIT 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeFormer 的 F1（0.855）高于 BIT（0.839）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 S2Looking 上 F1=0.737。\n证据[2]：ChangeFormer 在 S2Looking 上 F1=0.863。\n\n问题：SNUNet 和 ChangeFormer 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeFormer 的 F1（0.863）高于 SNUNet（0.737）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 LEVIR-CD 上 F1=0.867。\n证据[2]：BIT 在 LEVIR-CD 上 F1=0.910。\n\n问题：ChangeFormer 和 BIT 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.910）高于 ChangeFormer（0.867）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 WHU-CD 上 F1=0.712。\n证据[2]：ChangerEx 在 WHU-CD 上 F1=0.804。\n\n问题：TinyCD 和 ChangerEx 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.804）高于 TinyCD（0.712）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CDD 上 F1=0.853。\n证据[2]：BIT 在 CDD 上 F1=0.873。\n\n问题：ChangerEx 和 BIT 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.873）高于 ChangerEx（0.853）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 SECOND 上 F1=0.933。\n证据[2]：SNUNet 在 SECOND 上 F1=0.723。\n\n问题：ChangerEx 和 SNUNet 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.933）高于 SNUNet（0.723）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SECOND 上 F1=0.924。\n证据[2]：ChangerEx 在 SECOND 上 F1=0.905。\n\n问题：TinyCD 和 ChangerEx 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.924）高于 ChangerEx（0.905）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 WHU-CD 上 F1=0.773。\n证据[2]：ChangeStar 在 WHU-CD 上 F1=0.734。\n\n问题：DMINet 和 ChangeStar 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.773）高于 ChangeStar（0.734）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 HRSCD 上 F1=0.831。\n证据[2]：ChangerEx 在 HRSCD 上 F1=0.874。\n\n问题：TinyCD 和 ChangerEx 在 HRSCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.874）高于 TinyCD（0.831）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 WHU-CD 上 F1=0.821。\n证据[2]：ChangeStar 在 WHU-CD 上 F1=0.872。\n\n问题：ChangeFormer 和 ChangeStar 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeStar 的 F1（0.872）高于 ChangeFormer（0.821）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SECOND 上 F1=0.765。\n证据[2]：SNUNet 在 SECOND 上 F1=0.844。\n\n问题：TinyCD 和 SNUNet 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "SNUNet 的 F1（0.844）高于 TinyCD（0.765）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CLCD 上 F1=0.830。\n证据[2]：BIT 在 CLCD 上 F1=0.858。\n\n问题：HANet 和 BIT 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.858）高于 HANet（0.830）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 S2Looking 上 F1=0.921。\n证据[2]：DMINet 在 S2Looking 上 F1=0.758。\n\n问题：ChangeStar 和 DMINet 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeStar 的 F1（0.921）高于 DMINet（0.758）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 LEVIR-CD 上 F1=0.730。\n证据[2]：BIT 在 LEVIR-CD 上 F1=0.816。\n\n问题：TinyCD 和 BIT 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.816）高于 TinyCD（0.730）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 SYSU-CD 上 F1=0.900。\n证据[2]：HANet 在 SYSU-CD 上 F1=0.950。\n\n问题：BIT 和 HANet 在 SYSU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.950）高于 BIT（0.900）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 SECOND 上 F1=0.787。\n证据[2]：ChangeFormer 在 SECOND 上 F1=0.902。\n\n问题：DMINet 和 ChangeFormer 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeFormer 的 F1（0.902）高于 DMINet（0.787）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 SYSU-CD 上 F1=0.873。\n证据[2]：ChangeFormer 在 SYSU-CD 上 F1=0.764。\n\n问题：SNUNet 和 ChangeFormer 在 SYSU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "SNUNet 的 F1（0.873）高于 ChangeFormer（0.764）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CDD 上 F1=0.827。\n证据[2]：ChangerEx 在 CDD 上 F1=0.781。\n\n问题：BIT 和 ChangerEx 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.827）高于 ChangerEx（0.781）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SECOND 上 F1=0.785。\n证据[2]：ChangeStar 在 SECOND 上 F1=0.881。\n\n问题：ChangeFormer 和 ChangeStar 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeStar 的 F1（0.881）高于 ChangeFormer（0.785）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 S2Looking 上 F1=0.749。\n证据[2]：DMINet 在 S2Looking 上 F1=0.908。\n\n问题：ChangeFormer 和 DMINet 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.908）高于 ChangeFormer（0.749）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 上 F1=0.861。\n证据[2]：SNUNet 在 LEVIR-CD 上 F1=0.820。\n\n问题：ChangeStar 和 SNUNet 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeStar 的 F1（0.861）高于 SNUNet（0.820）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SECOND 上 F1=0.816。\n证据[2]：DMINet 在 SECOND 上 F1=0.904。\n\n问题：ChangeStar 和 DMINet 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.904）高于 ChangeStar（0.816）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 CDD 上 F1=0.841。\n证据[2]：DMINet 在 CDD 上 F1=0.870。\n\n问题：ChangeFormer 和 DMINet 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.870）高于 ChangeFormer（0.841）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 SECOND 上 F1=0.900。\n证据[2]：BIT 在 SECOND 上 F1=0.922。\n\n问题：ChangeFormer 和 BIT 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.922）高于 ChangeFormer（0.900）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 S2Looking 上 F1=0.770。\n证据[2]：ChangeFormer 在 S2Looking 上 F1=0.708。\n\n问题：HANet 和 ChangeFormer 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.770）高于 ChangeFormer（0.708）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：DMINet 在 S2Looking 上 F1=0.843。\n证据[2]：HANet 在 S2Looking 上 F1=0.797。\n\n问题：DMINet 和 HANet 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.843）高于 HANet（0.797）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CDD 上 F1=0.876。\n证据[2]：DMINet 在 CDD 上 F1=0.779。\n\n问题：BIT 和 DMINet 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.876）高于 DMINet（0.779）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 HRSCD 上 F1=0.722。\n证据[2]：ChangerEx 在 HRSCD 上 F1=0.919。\n\n问题：ChangeFormer 和 ChangerEx 在 HRSCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.919）高于 ChangeFormer（0.722）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 CDD 上 F1=0.754。\n证据[2]：SNUNet 在 CDD 上 F1=0.776。\n\n问题：HANet 和 SNUNet 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "SNUNet 的 F1（0.776）高于 HANet（0.754）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 LEVIR-CD 上 F1=0.894。\n证据[2]：ChangerEx 在 LEVIR-CD 上 F1=0.928。\n\n问题：BIT 和 ChangerEx 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.928）高于 BIT（0.894）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 LEVIR-CD 上 F1=0.900。\n证据[2]：TinyCD 在 LEVIR-CD 上 F1=0.926。\n\n问题：ChangeStar 和 TinyCD 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.926）高于 ChangeStar（0.900）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 SECOND 上 F1=0.931。\n证据[2]：BIT 在 SECOND 上 F1=0.883。\n\n问题：ChangerEx 和 BIT 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.931）高于 BIT（0.883）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SECOND 上 F1=0.736。\n证据[2]：DMINet 在 SECOND 上 F1=0.918。\n\n问题：TinyCD 和 DMINet 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "DMINet 的 F1（0.918）高于 TinyCD（0.736）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 LEVIR-CD 上 F1=0.815。\n证据[2]：BIT 在 LEVIR-CD 上 F1=0.878。\n\n问题：ChangerEx 和 BIT 在 LEVIR-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.878）高于 ChangerEx（0.815）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CDD 上 F1=0.933。\n证据[2]：ChangeFormer 在 CDD 上 F1=0.872。\n\n问题：BIT 和 ChangeFormer 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.933）高于 ChangeFormer（0.872）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 CLCD 上 F1=0.922。\n证据[2]：ChangerEx 在 CLCD 上 F1=0.726。\n\n问题：BIT 和 ChangerEx 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.922）高于 ChangerEx（0.726）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CDD 上 F1=0.860。\n证据[2]：ChangeFormer 在 CDD 上 F1=0.752。\n\n问题：TinyCD 和 ChangeFormer 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.860）高于 ChangeFormer（0.752）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 CDD 上 F1=0.769。\n证据[2]：BIT 在 CDD 上 F1=0.780。\n\n问题：SNUNet 和 BIT 在 CDD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.780）高于 SNUNet（0.769）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 WHU-CD 上 F1=0.768。\n证据[2]：HANet 在 WHU-CD 上 F1=0.739。\n\n问题：ChangeStar 和 HANet 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeStar 的 F1（0.768）高于 HANet（0.739）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 WHU-CD 上 F1=0.752。\n证据[2]：ChangeFormer 在 WHU-CD 上 F1=0.788。\n\n问题：BIT 和 ChangeFormer 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeFormer 的 F1（0.788）高于 BIT（0.752）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 S2Looking 上 F1=0.936。\n证据[2]：ChangerEx 在 S2Looking 上 F1=0.901。\n\n问题：HANet 和 ChangerEx 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.936）高于 ChangerEx（0.901）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 WHU-CD 上 F1=0.778。\n证据[2]：BIT 在 WHU-CD 上 F1=0.923。\n\n问题：SNUNet 和 BIT 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "BIT 的 F1（0.923）高于 SNUNet（0.778）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 S2Looking 上 F1=0.707。\n证据[2]：ChangeFormer 在 S2Looking 上 F1=0.926。\n\n问题：ChangeStar 和 ChangeFormer 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeFormer 的 F1（0.926）高于 ChangeStar（0.707）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeFormer 在 HRSCD 上 F1=0.713。\n证据[2]：ChangeStar 在 HRSCD 上 F1=0.807。\n\n问题：ChangeFormer 和 ChangeStar 在 HRSCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeStar 的 F1（0.807）高于 ChangeFormer（0.713）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangerEx 在 CLCD 上 F1=0.854。\n证据[2]：HANet 在 CLCD 上 F1=0.778。\n\n问题：ChangerEx 和 HANet 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.854）高于 HANet（0.778）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 WHU-CD 上 F1=0.943。\n证据[2]：HANet 在 WHU-CD 上 F1=0.889。\n\n问题：SNUNet 和 HANet 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "SNUNet 的 F1（0.943）高于 HANet（0.889）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 S2Looking 上 F1=0.723。\n证据[2]：TinyCD 在 S2Looking 上 F1=0.901。\n\n问题：ChangeStar 和 TinyCD 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.901）高于 ChangeStar（0.723）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 CLCD 上 F1=0.778。\n证据[2]：ChangeFormer 在 CLCD 上 F1=0.861。\n\n问题：ChangeStar 和 ChangeFormer 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeFormer 的 F1（0.861）高于 ChangeStar（0.778）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SYSU-CD 上 F1=0.937。\n证据[2]：SNUNet 在 SYSU-CD 上 F1=0.736。\n\n问题：ChangeStar 和 SNUNet 在 SYSU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeStar 的 F1（0.937）高于 SNUNet（0.736）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 HRSCD 上 F1=0.746。\n证据[2]：ChangerEx 在 HRSCD 上 F1=0.929。\n\n问题：TinyCD 和 ChangerEx 在 HRSCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangerEx 的 F1（0.929）高于 TinyCD（0.746）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 SECOND 上 F1=0.813。\n证据[2]：DMINet 在 SECOND 上 F1=0.708。\n\n问题：HANet 和 DMINet 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.813）高于 DMINet（0.708）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：ChangeStar 在 SECOND 上 F1=0.820。\n证据[2]：ChangeFormer 在 SECOND 上 F1=0.911。\n\n问题：ChangeStar 和 ChangeFormer 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeFormer 的 F1（0.911）高于 ChangeStar（0.820）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 SECOND 上 F1=0.851。\n证据[2]：DMINet 在 SECOND 上 F1=0.732。\n\n问题：TinyCD 和 DMINet 在 SECOND 上哪个 F1 更高？"}, {"from": "gpt", "value": "TinyCD 的 F1（0.851）高于 DMINet（0.732）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：BIT 在 WHU-CD 上 F1=0.781。\n证据[2]：SNUNet 在 WHU-CD 上 F1=0.862。\n\n问题：BIT 和 SNUNet 在 WHU-CD 上哪个 F1 更高？"}, {"from": "gpt", "value": "SNUNet 的 F1（0.862）高于 BIT（0.781）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：TinyCD 在 CLCD 上 F1=0.800。\n证据[2]：ChangeStar 在 CLCD 上 F1=0.803。\n\n问题：TinyCD 和 ChangeStar 在 CLCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "ChangeStar 的 F1（0.803）高于 TinyCD（0.800）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：SNUNet 在 S2Looking 上 F1=0.943。\n证据[2]：TinyCD 在 S2Looking 上 F1=0.796。\n\n问题：SNUNet 和 TinyCD 在 S2Looking 上哪个 F1 更高？"}, {"from": "gpt", "value": "SNUNet 的 F1（0.943）高于 TinyCD（0.796）[1][2]。"}]}
+{"conversations": [{"from": "human", "value": "证据[1]：HANet 在 HRSCD 上 F1=0.896。\n证据[2]：BIT 在 HRSCD 上 F1=0.809。\n\n问题：HANet 和 BIT 在 HRSCD 上哪个 F1 更高？"}, {"from": "gpt", "value": "HANet 的 F1（0.896）高于 BIT（0.809）[1][2]。"}]}

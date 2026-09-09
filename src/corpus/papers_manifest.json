@@ -1,0 +1,47 @@
+{
+  "domain": "remote_sensing_change_detection",
+  "notes": "arXiv ID 在下载阶段通过 arXiv API 按标题检索解析，不在此处手工杜撰。留出/语料划分见 split 字段（holdout=不进语料，用作评测）。",
+  "papers": [
+    {"category": "survey", "title": "Deep learning for change detection in remote sensing: a review and new outlooks", "authors": "Cheng et al.", "year": 2023},
+    {"category": "survey", "title": "Change Detection Based on Artificial Intelligence: State-of-the-Art and Challenges", "authors": "Shi, Zhang et al.", "year": 2020},
+    {"category": "survey", "title": "Deep Learning-Based Change Detection in Remote Sensing: A Comprehensive Review", "authors": "Shi et al.", "year": 2021},
+    {"category": "survey", "title": "A Survey of Sample-Efficient Deep Learning for Change Detection in Remote Sensing", "authors": "multiple", "year": 2023},
+    {"category": "survey", "title": "Change detection in remote sensing images: a review", "authors": "multiple", "year": 2020},
+    {"category": "survey", "title": "A review of building change detection based on remote sensing images", "authors": "multiple", "year": 2023},
+
+    {"category": "method_transformer", "title": "Remote Sensing Image Change Detection with Transformers", "authors": "Chen, Qi, Shi", "year": 2021, "aka": "BIT"},
+    {"category": "method_transformer", "title": "A Transformer-Based Siamese Network for Change Detection", "authors": "Bandara, Patel", "year": 2022, "aka": "ChangeFormer"},
+    {"category": "method_transformer", "title": "Changer: Feature Interaction is What You Need for Change Detection", "authors": "Fang et al.", "year": 2023, "aka": "Changer"},
+    {"category": "method_transformer", "title": "SwinSUNet: Pure Transformer Network for Remote Sensing Image Change Detection", "authors": "multiple", "year": 2022},
+
+    {"category": "method_cnn", "title": "SNUNet-CD: A Densely Connected Siamese Network for Change Detection of VHR Images", "authors": "Fang et al.", "year": 2021},
+    {"category": "method_cnn", "title": "A Deeply Supervised Attention Metric-Based Network and an Open Aerial Image Dataset for Remote Sensing Change Detection", "authors": "Zhang et al.", "year": 2020, "aka": "DSIFN"},
+    {"category": "method_cnn", "title": "TinyCD: A (Not So) Deep Learning Model for Change Detection", "authors": "Codegoni et al.", "year": 2022},
+    {"category": "method_cnn", "title": "HANet: A Hierarchical Attention Network for Change Detection With Bitemporal Very-High-Resolution Remote Sensing Images", "authors": "Han et al.", "year": 2023},
+    {"category": "method_cnn", "title": "DMINet: A Network with Dense Multi-Scale Interactions for Change Detection", "authors": "Feng et al.", "year": 2023},
+    {"category": "method_cnn", "title": "ICIF-Net: Intra-Scale Cross-Interaction and Inter-Scale Feature Fusion Network for Bitemporal Remote Sensing Change Detection", "authors": "Feng et al.", "year": 2023},
+    {"category": "method_cnn", "title": "Fully Convolutional Siamese Networks for Change Detection", "authors": "Daudt et al.", "year": 2018, "aka": "FC-EF/FC-Siam"},
+    {"category": "method_cnn", "title": "A Spatial-Temporal Attention-Based Method and a New Dataset for Remote Sensing Image Change Detection", "authors": "Chen, Shi", "year": 2020, "aka": "STANet"},
+
+    {"category": "method_new", "title": "Change is Everywhere: Single-Temporal Supervised Object Change Detection in Remote Sensing Imagery", "authors": "multiple", "year": 2021, "aka": "ChangeStar"},
+    {"category": "method_new", "title": "When SAM Meets Change Detection", "authors": "multiple", "year": 2023, "aka": "SAM-CD"},
+    {"category": "method_new", "title": "ChangeMamba: Remote Sensing Change Detection With Spatio-Temporal State Space Model", "authors": "Chen et al.", "year": 2024},
+    {"category": "method_new", "title": "DDPM-CD: Denoising Diffusion Probabilistic Models as Feature Extractors for Change Detection", "authors": "multiple", "year": 2023},
+    {"category": "method_new", "title": "ChangeAnywhere: Sample Generation for Remote Sensing Change Detection via Semantic Latent Diffusion Model", "authors": "multiple", "year": 2024},
+
+    {"category": "dataset", "title": "S2Looking: A Satellite Side-Looking Dataset for Building Change Detection", "authors": "Shen et al.", "year": 2021},
+    {"category": "dataset", "title": "Fully Convolutional Networks for Multisource Building Extraction From an Open Aerial and Satellite Imagery Data Set", "authors": "Ji et al.", "year": 2019, "aka": "WHU-CD"},
+    {"category": "dataset", "title": "Asymmetric Siamese Networks for Semantic Change Detection in Aerial Images", "authors": "Yang et al.", "year": 2021, "aka": "SECOND"},
+    {"category": "dataset", "title": "Multitask learning for large-scale semantic change detection", "authors": "Daudt et al.", "year": 2019, "aka": "OSCD"},
+    {"category": "dataset", "title": "Urban change detection for multispectral earth observation using convolutional neural networks", "authors": "Daudt et al.", "year": 2018},
+    {"category": "dataset", "title": "Semantic change detection with asymmetric siamese networks", "authors": "multiple", "year": 2021, "aka": "HRSCD"},
+
+    {"category": "foundation", "title": "Segment Anything", "authors": "Kirillov et al.", "year": 2023, "aka": "SAM"},
+    {"category": "foundation", "title": "RingMo: A Remote Sensing Foundation Model with Masked Image Modeling", "authors": "Sun et al.", "year": 2022},
+    {"category": "foundation", "title": "SpectralGPT: Spectral Remote Sensing Foundation Model", "authors": "Hong et al.", "year": 2023},
+    {"category": "foundation", "title": "RemoteCLIP: A Vision Language Foundation Model for Remote Sensing", "authors": "Liu et al.", "year": 2023},
+
+    {"category": "semi_supervised", "title": "SemiCDNet: A Semisupervised Convolutional Neural Network for Change Detection in VHR Images", "authors": "Peng et al.", "year": 2020},
+    {"category": "semi_supervised", "title": "SemiCD: Semi-Supervised Learning for Change Detection", "authors": "multiple", "year": 2021}
+  ]
+}
