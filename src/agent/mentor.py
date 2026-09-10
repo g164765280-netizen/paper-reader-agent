@@ -113,6 +113,7 @@ class MentorAgent:
                          {"role": "user", "content": user}],
             "temperature": temperature,
             "max_tokens": max_tokens,  # 限长，避免第三方网关 504 超时
+            "extra_body": {"enable_thinking": False},  # 关思考，返回干净 content
         }
         if self.api_key:
             kwargs["api_key"] = self.api_key
