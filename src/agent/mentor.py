@@ -90,24 +90,39 @@ STATE_TEMPLATE = """# 用户学习状态
 class MentorAgent:
     """模型无关的科研导师 agent。"""
 
-    def __init__(self, model: str = "gpt-4o", memory_dir: str = "memory"):
-        self.model = model
+    def __init__(self, model: str | None = None, memory_dir: str = "memory",
+                 api_key: str | None = None, api_base: str | None = None):
+        # 默认从环境变量读，便于用任意 OpenAI 兼容端点（如 DeepSeek）
+        # 注意：deepseek-v4-pro 是重推理模型，思考链会吃光 max_tokens 导致 content 为空；
+        #       qwen3.8-flash 返回干净 content，更适合教学式对话。
+        self.model = model or os.getenv("MENTOR_MODEL", "openai/qwen3.8-flash")
+        self.api_key = api_key or os.getenv("MENTOR_API_KEY", "")
+        self.api_base = api_base or os.getenv("MENTOR_API_BASE", "")
         self.memory_dir = Path(memory_dir)
         self.memory_dir.mkdir(parents=True, exist_ok=True)
 
     # ---- 模型调用（LiteLLM，模型无关）----
-    def _chat(self, system: str, user: str, temperature: float = 0.3) -> str:
+    def _chat(self, system: str, user: str, temperature: float = 0.3, max_tokens: int = 500) -> str:
         try:
             import litellm
         except ImportError:
             raise RuntimeError("需要安装 litellm：pip install litellm")
-        resp = litellm.completion(
-            model=self.model,
-            messages=[{"role": "system", "content": system},
-                      {"role": "user", "content": user}],
-            temperature=temperature,
-        )
-        return resp.choices[0].message.content.strip()
+        kwargs = {
+            "model": self.model,
+            "messages": [{"role": "system", "content": system},
+                         {"role": "user", "content": user}],
+            "temperature": temperature,
+            "max_tokens": max_tokens,  # 限长，避免第三方网关 504 超时
+        }
+        if self.api_key:
+            kwargs["api_key"] = self.api_key
+        if self.api_base:
+            kwargs["api_base"] = self.api_base
+        resp = litellm.completion(**kwargs)
+        msg = resp.choices[0].message
+        # 推理模型 content 可能为 None，回退到 reasoning_content
+        text = getattr(msg, "content", None) or getattr(msg, "reasoning_content", "") or ""
+        return text.strip()
 
     # ---- ① 问题理解器 ----
     def understand(self, question: str) -> dict:
