@@ -1,0 +1,20 @@
+{"id": "cq01", "question": "变化检测中为什么不用 OA（Overall Accuracy）当主指标？", "key_points": ["类别不平衡", "变化像素占比小", "正样本少", "OA 会被多数类（未变化）主导"]}
+{"id": "cq02", "question": "BIT 方法的核心思想是什么？", "key_points": ["token 化", "把图像切分为 token", "Transformer 全局注意力", "自注意力建模长距离依赖"]}
+{"id": "cq03", "question": "ChangeFormer 和 BIT 的本质区别是什么？", "key_points": ["层次化", "多尺度", "金字塔/多级 Transformer", "BIT 单一尺度 token 化"]}
+{"id": "cq04", "question": "双时相影像为什么必须先配准？", "key_points": ["伪变化", "位置偏移导致误检", "同一地物对齐"]}
+{"id": "cq05", "question": "变化检测的三种基础融合范式（早融合/孪生拼接/孪生差分）分别是什么？", "key_points": ["早融合 FC-EF", "通道 concat 拼接", "差分 diff 相减"]}
+{"id": "cq06", "question": "SNUNet 相比普通孪生网络改进了什么？", "key_points": ["密集连接", "多尺度特征", "深层浅层特征复用"]}
+{"id": "cq07", "question": "变化检测里 Precision 高但 Recall 低说明模型存在什么问题？", "key_points": ["漏检多", "变化目标没检出来", "保守预测"]}
+{"id": "cq08", "question": "半监督和无监督变化检测的本质区别是什么？", "key_points": ["有无标注", "半监督用少量标注", "无监督完全不用标注"]}
+{"id": "cq09", "question": "弱监督变化检测用的是哪种标注？", "key_points": ["图像级", "非像素级", "只有图像标签没有像素标注"]}
+{"id": "cq10", "question": "跨域变化检测要解决的核心问题是什么？", "key_points": ["训练测试分布不同", "传感器/地区差异", "域漂移"]}
+{"id": "cq11", "question": "LEVIR-CD 是什么类型的数据集？", "key_points": ["建筑变化检测", "双时相", "遥感影像"]}
+{"id": "cq12", "question": "SECOND 和 LEVIR-CD 的任务有什么区别？", "key_points": ["语义变化检测 SCD", "二值变化检测 BCD", "SECOND 判断变成什么", "LEVIR-CD 只判断变没变"]}
+{"id": "cq13", "question": "小目标变化漏检严重，常见怎么处理？", "key_points": ["多尺度", "浅层特征", "融合浅层细节特征"]}
+{"id": "cq14", "question": "配准误差会导致什么后果？", "key_points": ["伪变化", "误检", "位置偏移"]}
+{"id": "cq15", "question": "全监督变化检测需要什么标注？", "key_points": ["像素级变化标注", "逐像素标注变没变"]}
+{"id": "cq16", "question": "Transformer 相比 CNN 在变化检测里的优势是什么？", "key_points": ["全局依赖", "长距离依赖", "感受野大"]}
+{"id": "cq17", "question": "季节变化导致的误检是什么问题？", "key_points": ["伪变化", "同一地物表象改变而非真实变化"]}
+{"id": "cq18", "question": "F1 和 IoU 有什么区别？", "key_points": ["F1 是 P/R 调和平均", "IoU 是交并比", "F1 关注精度召回", "IoU 关注区域重叠"]}
+{"id": "cq19", "question": "多模态变化检测（光学+SAR）的动机是什么？", "key_points": ["光学受云/光照影响", "SAR 全天候", "互补"]}
+{"id": "cq20", "question": "语义变化检测（SCD）和二值变化检测（BCD）的根本区别是什么？", "key_points": ["SCD 要判断变成什么类别", "BCD 只判断变没变", "SCD 更细粒度"]}
