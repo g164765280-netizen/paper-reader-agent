@@ -90,7 +90,7 @@ def main():
         r = pref[0]
         qs.append({
             "paper_id": pid, "title": TITLE.get(pid, ""),
-            "question": f"论文《{TITLE.get(pid, '')}》提出的方法在 {r['dataset']} 上的 {r['metric']} 是多少？",
+            "question": f"论文《{TITLE.get(pid, '')}》的 {m} 方法在 {r['dataset']} 上的 {r['metric']} 是多少？",
             "gold": {"method": m, "dataset": r["dataset"], "metric": r["metric"], "value": r["value"]},
         })
 
