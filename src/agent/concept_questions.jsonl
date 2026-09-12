@@ -1,20 +1,50 @@
 {"id": "cq01", "question": "变化检测中为什么不用 OA（Overall Accuracy）当主指标？", "key_points": ["类别不平衡", "变化像素占比小", "正样本少", "OA 会被多数类（未变化）主导"]}
 {"id": "cq02", "question": "BIT 方法的核心思想是什么？", "key_points": ["token 化", "把图像切分为 token", "Transformer 全局注意力", "自注意力建模长距离依赖"]}
 {"id": "cq03", "question": "ChangeFormer 和 BIT 的本质区别是什么？", "key_points": ["层次化", "多尺度", "金字塔/多级 Transformer", "BIT 单一尺度 token 化"]}
-{"id": "cq04", "question": "双时相影像为什么必须先配准？", "key_points": ["伪变化", "位置偏移导致误检", "同一地物对齐"]}
+{"id": "cq04", "question": "双时相影像为什么必须先配准？", "key_points": ["伪变化", "位置偏移导致误检", "同一地物对齐", "几何对齐"]}
 {"id": "cq05", "question": "变化检测的三种基础融合范式（早融合/孪生拼接/孪生差分）分别是什么？", "key_points": ["早融合 FC-EF", "通道 concat 拼接", "差分 diff 相减"]}
 {"id": "cq06", "question": "SNUNet 相比普通孪生网络改进了什么？", "key_points": ["密集连接", "多尺度特征", "深层浅层特征复用"]}
 {"id": "cq07", "question": "变化检测里 Precision 高但 Recall 低说明模型存在什么问题？", "key_points": ["漏检多", "变化目标没检出来", "保守预测"]}
 {"id": "cq08", "question": "半监督和无监督变化检测的本质区别是什么？", "key_points": ["有无标注", "半监督用少量标注", "无监督完全不用标注"]}
-{"id": "cq09", "question": "弱监督变化检测用的是哪种标注？", "key_points": ["图像级", "非像素级", "只有图像标签没有像素标注"]}
-{"id": "cq10", "question": "跨域变化检测要解决的核心问题是什么？", "key_points": ["训练测试分布不同", "传感器/地区差异", "域漂移"]}
-{"id": "cq11", "question": "LEVIR-CD 是什么类型的数据集？", "key_points": ["建筑变化检测", "双时相", "遥感影像"]}
-{"id": "cq12", "question": "SECOND 和 LEVIR-CD 的任务有什么区别？", "key_points": ["语义变化检测 SCD", "二值变化检测 BCD", "SECOND 判断变成什么", "LEVIR-CD 只判断变没变"]}
+{"id": "cq09", "question": "弱监督变化检测用的是哪种标注？", "key_points": ["图像级", "非像素级", "只有图像标签没有像素标注", "比像素级更粗的标注"]}
+{"id": "cq10", "question": "跨域变化检测要解决的核心问题是什么？", "key_points": ["训练测试分布不同", "传感器/地区差异", "域漂移", "域自适应/域泛化"]}
+{"id": "cq11", "question": "LEVIR-CD 是什么类型的数据集？", "key_points": ["建筑变化检测", "双时相", "遥感影像", "高分辨率"]}
+{"id": "cq12", "question": "在遥感变化检测语境下，SECOND 和 LEVIR-CD 的任务有什么区别？", "key_points": ["语义变化检测 SCD", "二值变化检测 BCD", "SECOND 判断变成什么", "LEVIR-CD 只判断变没变", "SECOND 是数据集不是目标检测模型"]}
 {"id": "cq13", "question": "小目标变化漏检严重，常见怎么处理？", "key_points": ["多尺度", "浅层特征", "融合浅层细节特征"]}
 {"id": "cq14", "question": "配准误差会导致什么后果？", "key_points": ["伪变化", "误检", "位置偏移"]}
-{"id": "cq15", "question": "全监督变化检测需要什么标注？", "key_points": ["像素级变化标注", "逐像素标注变没变"]}
+{"id": "cq15", "question": "全监督变化检测需要什么标注？", "key_points": ["像素级变化标注", "逐像素标注变没变", "SCD 还要标变化类型"]}
 {"id": "cq16", "question": "Transformer 相比 CNN 在变化检测里的优势是什么？", "key_points": ["全局依赖", "长距离依赖", "感受野大"]}
 {"id": "cq17", "question": "季节变化导致的误检是什么问题？", "key_points": ["伪变化", "同一地物表象改变而非真实变化"]}
-{"id": "cq18", "question": "F1 和 IoU 有什么区别？", "key_points": ["F1 是 P/R 调和平均", "IoU 是交并比", "F1 关注精度召回", "IoU 关注区域重叠"]}
-{"id": "cq19", "question": "多模态变化检测（光学+SAR）的动机是什么？", "key_points": ["光学受云/光照影响", "SAR 全天候", "互补"]}
+{"id": "cq18", "question": "F1 和 IoU 有什么区别？", "key_points": ["F1 是 P/R 调和平均", "IoU 是交并比", "F1 关注精度召回", "IoU 关注区域重叠/边界"]}
+{"id": "cq19", "question": "多模态变化检测（光学+SAR）的动机是什么？", "key_points": ["光学受云/光照影响", "SAR 全天候", "互补", "抗云遮挡"]}
 {"id": "cq20", "question": "语义变化检测（SCD）和二值变化检测（BCD）的根本区别是什么？", "key_points": ["SCD 要判断变成什么类别", "BCD 只判断变没变", "SCD 更细粒度"]}
+{"id": "cq21", "question": "为什么说变化检测是类别严重不平衡的任务？", "key_points": ["变化像素占比极小", "通常小于5%", "正负样本不平衡", "模型偏向不变"]}
+{"id": "cq22", "question": "FC-EF、FC-Siam-conc、FC-Siam-diff 三者分别怎么融合双时相信息？", "key_points": ["早融合先拼接", "孪生拼接 concat", "孪生差分 diff 相减", "权值共享"]}
+{"id": "cq23", "question": "为什么变化检测网络常用孪生（Siamese）结构？", "key_points": ["权值共享", "两期影像一致特征空间", "配对输入"]}
+{"id": "cq24", "question": "Changer 方法的核心思路是什么？", "key_points": ["特征聚合", "Transformer 变体", "特征交互"]}
+{"id": "cq25", "question": "Mamba 类方法在变化检测里出现，相比 Transformer 主打什么优势？", "key_points": ["线性复杂度", "长序列高效", "省算力"]}
+{"id": "cq26", "question": "半监督变化检测常用哪些范式？", "key_points": ["教师学生模型", "伪标签", "置信度过滤", "一致性正则化"]}
+{"id": "cq27", "question": "无监督变化检测里 CVA 指的是什么？", "key_points": ["变化向量分析", "算变化向量", "模长大即变化", "传统方法"]}
+{"id": "cq28", "question": "无监督变化检测的本质局限是什么？", "key_points": ["精度低于监督", "无标注", "适合快速筛查"]}
+{"id": "cq29", "question": "跨域变化检测里，域自适应和域泛化的区别是什么？", "key_points": ["域自适应目标域有少量无标注数据", "域泛化目标域完全未知"]}
+{"id": "cq30", "question": "用交叉熵损失训练变化检测，遇到类别不平衡该怎么调？", "key_points": ["Focal Loss", "Dice Loss", "加权"]}
+{"id": "cq31", "question": "半监督变化检测里伪标签质量差会导致什么后果？", "key_points": ["带偏模型", "错误累加", "需要置信度过滤"]}
+{"id": "cq32", "question": "WHU-CD 和 LEVIR-CD 有什么共同点和区别？", "key_points": ["都是建筑变化检测", "双时相", "高分辨率"]}
+{"id": "cq33", "question": "为什么变化检测里 Transformer 计算量大、细节易丢？", "key_points": ["全局注意力算力高", "下采样丢细节", "需要层次化多尺度折中"]}
+{"id": "cq34", "question": "变化检测做数据增强时，最需要注意什么？", "key_points": ["保持双时相配对关系", "随机裁剪翻转要同步"]}
+{"id": "cq35", "question": "开放词汇/零样本变化检测是什么意思？", "key_points": ["文字引导", "CLIP 类视觉语言模型", "不针对每个类别单独训练"]}
+{"id": "cq36", "question": "多模态变化检测的核心难题是什么？", "key_points": ["模态特征对齐", "模态差异大", "跨模态融合"]}
+{"id": "cq37", "question": "DSIFN 数据集是什么类型的？", "key_points": ["多类型变化", "多类别", "变化检测数据集"]}
+{"id": "cq38", "question": "SYSU-CD 数据集的特点是什么？", "key_points": ["航空影像", "规模大", "20000对"]}
+{"id": "cq39", "question": "变化检测模型的 Recall 低，说明应用上更偏重什么风险？", "key_points": ["漏检", "漏掉真实变化", "危险遗漏"]}
+{"id": "cq40", "question": "变化检测模型的 Precision 低，说明应用上更偏重什么风险？", "key_points": ["误报", "把没变的判成变了", "虚警多"]}
+{"id": "cq41", "question": "为什么说深度学习变化检测里，CNN 感受野受限会影响大范围地物整体变化检测？", "key_points": ["感受野局部", "大范围整体变化需要全局", "Transformer 全局注意力弥补"]}
+{"id": "cq42", "question": "变化检测里 Dice Loss 相比交叉熵更适合应对什么问题？", "key_points": ["类别不平衡", "关注重叠区域", "小目标"]}
+{"id": "cq43", "question": "遥感变化检测专家系统里，'知识检索'和'生成回答'分别由什么承担？", "key_points": ["检索用 RAG/PaperQA2", "生成用本地 LLM", "检索提供出处"]}
+{"id": "cq44", "question": "配准是变化检测的什么性质的前提条件？", "key_points": ["几何对齐前提", "否则伪变化", "基础预处理"]}
+{"id": "cq45", "question": "变化检测里 IoU 对什么敏感，这带来什么局限？", "key_points": ["对边界敏感", "反映分割质量", "边界对齐要求高"]}
+{"id": "cq46", "question": "从监督方式看，标注成本从高到低的变化检测路线大致怎么排？", "key_points": ["全监督最贵像素级", "半监督中等", "弱监督/无监督便宜"]}
+{"id": "cq47", "question": "ChangeFormer 里'层次化 Transformer + 多尺度金字塔'是为了解决 Transformer 的什么短板？", "key_points": ["细节易丢", "多尺度捕捉不同大小变化", "细节分支"]}
+{"id": "cq48", "question": "为什么变化检测常用 F1 而不是单独看 Precision 或 Recall？", "key_points": ["F1 平衡两者", "变化检测要同时控误报和漏检", "调和平均"]}
+{"id": "cq49", "question": "HRSCD 数据集属于哪类变化检测？", "key_points": ["高分辨率语义变化检测", "SCD"]}
+{"id": "cq50", "question": "变化检测里，'变化向量'这个概念对应哪种传统方法？", "key_points": ["CVA", "变化向量分析", "模长判变化"]}

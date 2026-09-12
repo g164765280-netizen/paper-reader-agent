@@ -27,8 +27,10 @@ API_KEY = os.environ.get("OPENAI_API_KEY", "")
 API_BASE = os.environ.get("OPENAI_API_BASE", "https://tokenrhythm.studio/v1")
 JUDGE_MODEL = os.environ.get("JUDGE_MODEL", "qwen3.8-max")
 
-ANSWERS = Path("/media/sdb1/gzj/support/llm/rscd/concept_answers.jsonl")
-OUT = Path("/media/sdb1/gzj/support/llm/rscd/concept_eval_report.jsonl")
+ANSWERS = Path(os.environ.get("ANSWERS_FILE",
+                               "/media/sdb1/gzj/support/llm/rscd/concept_answers.jsonl"))
+OUT = Path(os.environ.get("OUT_FILE",
+                          "/media/sdb1/gzj/support/llm/rscd/concept_eval_report.jsonl"))
 
 SYS = "你是严格的评测裁判。只输出 JSON，不要解释。"
 
