@@ -1,0 +1,272 @@
+{
+  "2207.13159v2": [
+    {
+      "method": "Our",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "91.05",
+      "title": "TINYCD: A (Not So) Deep Learning Model For Change Detection"
+    }
+  ],
+  "2209.08290v1": [
+    {
+      "method": "ChangerVanilla",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "91.10",
+      "title": "Changer: Feature Interaction is What You Need for Change Detection"
+    }
+  ],
+  "2304.01101v2": [
+    {
+      "method": "Dsfer-Net",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "90.76",
+      "title": "Dsfer-Net: A Deep Supervision and Feature Retrieval Network for Bitemporal Change Detection Using Modern Hopfield Networks"
+    }
+  ],
+  "2304.06710v1": [
+    {
+      "method": "ScratchFormer (ours)",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "91.78",
+      "title": "Remote Sensing Change Detection With Transformers Trained from Scratch"
+    }
+  ],
+  "2304.11422v1": [
+    {
+      "method": "STNet (Ours)",
+      "dataset": "WHU",
+      "metric": "f1",
+      "value": "90.52",
+      "title": "STNet: Spatial and Temporal feature fusion network for change detection in remote sensing images"
+    }
+  ],
+  "2403.17909v1": [
+    {
+      "method": "ELGC-Net (Ours)",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "91.20",
+      "title": "ELGC-Net: Efficient Local-Global Context Aggregation for Remote Sensing Change Detection"
+    }
+  ],
+  "2404.03425v7": [
+    {
+      "method": "Ours",
+      "dataset": "SECOND",
+      "metric": "f1",
+      "value": "55.72",
+      "title": "ChangeMamba: Remote Sensing Change Detection With Spatiotemporal State Space Model"
+    }
+  ],
+  "2404.09178v1": [
+    {
+      "method": "HANet(ours)",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "90.28",
+      "title": "HANet: A Hierarchical Attention Network for Change Detection With Bitemporal Very-High-Resolution Remote Sensing Images"
+    }
+  ],
+  "2404.11318v3": [
+    {
+      "method": "FINO(Ours)",
+      "dataset": "LEVIR-CD",
+      "metric": "rec(%)",
+      "value": "91.15",
+      "title": "Leveraging Fine-Grained Information and Noise Decoupling for Remote Sensing Change Detection"
+    }
+  ],
+  "2404.11326v5": [
+    {
+      "method": "SCL(Ours)",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "85.19",
+      "title": "SCL: Towards Domain Generalization via Single-Temporal Multimodal Contrastive Learning for Remote Sensing Change Detection"
+    }
+  ],
+  "2404.17565v1": [
+    {
+      "method": "Ours",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "91.86",
+      "title": "ChangeBind: A Hybrid Change Encoder for Remote Sensing Change Detection"
+    }
+  ],
+  "2405.01065v1": [
+    {
+      "method": "MFDS-Net",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "91.589",
+      "title": "MFDS-Net: Multi-Scale Feature Depth-Supervised Network for Remote Sensing Change Detection with Global Semantic and Detail Information"
+    }
+  ],
+  "2406.13606v1": [
+    {
+      "method": "DDLNet (Ours)",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "90.60",
+      "title": "DDLNet: Boosting Remote Sensing Change Detection with Dual-Domain Learning"
+    }
+  ],
+  "2406.15320v1": [
+    {
+      "method": "Ours",
+      "dataset": "DSIFN-CD",
+      "metric": "f1",
+      "value": "74.75",
+      "title": "Rethinking Remote Sensing Change Detection With A Mask View"
+    }
+  ],
+  "2407.06839v1": [
+    {
+      "method": "M-CD (Ours)",
+      "dataset": "DSIFN-CD",
+      "metric": "f1 ( ↑ )",
+      "value": "0.970",
+      "title": "A Mamba-based Siamese Network for Remote Sensing Change Detection"
+    }
+  ],
+  "2408.08078v1": [
+    {
+      "method": "OURS",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "91.15",
+      "title": "Treat Stillness with Movement: Remote Sensing Change Detection via Coarse-grained Temporal Foregrounds Mining"
+    }
+  ],
+  "2411.07863v3": [
+    {
+      "method": "Ours",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "90.89",
+      "title": "CDXLSTM: Boosting Remote Sensing Change Detection with Extended Long Short-Term Memory"
+    }
+  ],
+  "2412.17247v1": [
+    {
+      "method": "STeInFormer (Ours)",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "91.47",
+      "title": "STeInFormer: Spatial-Temporal Interaction Transformer Architecture for Remote Sensing Change Detection"
+    }
+  ],
+  "2501.15455v1": [
+    {
+      "method": "Ours",
+      "dataset": "WHU-CD",
+      "metric": "f1",
+      "value": "92.51",
+      "title": "CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model"
+    }
+  ],
+  "2504.00543v1": [
+    {
+      "method": "+Ours",
+      "dataset": "SYSU-CD",
+      "metric": "pre.(%)",
+      "value": "83.69",
+      "title": "Generalization-aware Remote Sensing Change Detection via Domain-agnostic Learning"
+    }
+  ],
+  "2504.05062v2": [
+    {
+      "method": "Ours",
+      "dataset": "SYSU-CD",
+      "metric": "f1",
+      "value": "80.99",
+      "title": "LDGNet: A Lightweight Difference Guiding Network for Remote Sensing Change Detection"
+    }
+  ],
+  "2504.15170v1": [
+    {
+      "method": "HSANet (Ours)",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "92.06",
+      "title": "HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection"
+    }
+  ],
+  "2504.19598v1": [
+    {
+      "method": "CANet-O[Ia]",
+      "dataset": "CDD",
+      "metric": "f1(%)",
+      "value": "97.82",
+      "title": "Lightweight Adapter Learning for More Generalized Remote Sensing Change Detection"
+    }
+  ],
+  "2505.15322v1": [
+    {
+      "method": "CEBSNet ( Ours )",
+      "dataset": "LEVIR-CD",
+      "metric": "𝑃",
+      "value": "92.7",
+      "title": "CEBSNet: Change-Excited and Background-Suppressed Network with Temporal Dependency Modeling for Bitemporal Change Detection"
+    }
+  ],
+  "2506.12836v1": [
+    {
+      "method": "Ours",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "91.89",
+      "title": "HyRet-Change: A hybrid retentive network for remote sensing change detection"
+    }
+  ],
+  "2506.17944v2": [
+    {
+      "method": "SegChange-R1",
+      "dataset": "WHU-CD",
+      "metric": "f1 ↑",
+      "value": "0.968",
+      "title": "SegChange-R1: LLM-Augmented Remote Sensing Change Detection"
+    }
+  ],
+  "2506.19263v1": [
+    {
+      "method": "Ours",
+      "dataset": "CDD",
+      "metric": "kappa oa",
+      "value": "97.45",
+      "title": "3D-SSM: A Novel 3D Selective Scan Module for Remote Sensing Change Detection"
+    }
+  ],
+  "2507.11523v1": [
+    {
+      "method": "Proposed",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "90.90",
+      "title": "Precision Spatio-Temporal Feature Fusion for Robust Remote Sensing Change Detection"
+    }
+  ],
+  "2507.16172v1": [
+    {
+      "method": "AWMambaBCD_S",
+      "dataset": "CLCD",
+      "metric": "f1",
+      "value": "81.20",
+      "title": "AtrousMamaba: An Atrous-Window Scanning Visual State Space Model for Remote Sensing Change Detection"
+    }
+  ],
+  "2508.05271v1": [
+    {
+      "method": "WGDF (Ours)",
+      "dataset": "LEVIR-CD",
+      "metric": "f1",
+      "value": "91.97",
+      "title": "Wavelet-Guided Dual-Frequency Encoding for Remote Sensing Change Detection"
+    }
+  ]
+}
