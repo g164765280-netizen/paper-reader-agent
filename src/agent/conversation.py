@@ -13,17 +13,22 @@ from __future__ import annotations
 
 from persona_tutor import TutorPersona
 from persona_panel import PanelPersona
+from persona_ideator import IdeatorPersona
 
 
 class ConversationalAgent:
     def __init__(self):
         self.tutor = TutorPersona()
         self.panel = PanelPersona()
-        self.personas = [self.tutor, self.panel]
+        self.ideator = IdeatorPersona()
+        self.personas = [self.tutor, self.panel, self.ideator]
         self.history: list[dict] = []
 
     def _route_persona(self, question: str):
-        """选人格：对比/争议 → Panel，否则 → Tutor。"""
+        """选人格：创见 → Ideator；对比/争议 → Panel；否则 → Tutor。"""
+        ideator_score = self.ideator.can_activate(question)
+        if ideator_score >= 0.7:
+            return self.ideator, ideator_score
         panel_score = self.panel.can_activate(question)
         if panel_score >= 0.7:
             return self.panel, panel_score
