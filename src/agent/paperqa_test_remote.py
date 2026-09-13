@@ -6,12 +6,15 @@
 from __future__ import annotations
 
 import asyncio
+import os
 from pathlib import Path
 
 from paperqa import Docs, Settings
 
-API_KEY = "sk_tr_MiutB676oeX7EfIkA-G_gSG-hRdHrEvfo-Uh2TMYBhI"
-API_BASE = "https://tokenrhythm.studio/v1"
+# API 凭据从环境变量读取，不硬编码。运行前：
+#   export OPENAI_API_KEY=...  export OPENAI_API_BASE=...
+API_KEY = os.environ.get("OPENAI_API_KEY", "")
+API_BASE = os.environ.get("OPENAI_API_BASE", "")
 
 LLM_CONFIG = {
     "model_list": [

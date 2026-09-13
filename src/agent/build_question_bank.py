@@ -7,6 +7,7 @@
 from __future__ import annotations
 
 import json
+import os
 import time
 from pathlib import Path
 
@@ -16,8 +17,9 @@ LIB = Path("/media/sdb1/gzj/data/rscd/corpus/metric_library.jsonl")
 FULLTEXT = Path("/media/sdb1/gzj/data/rscd/corpus/fulltext")
 OUT = Path("/media/sdb1/gzj/data/rscd/corpus/eval_set_v9.jsonl")
 
-API_KEY = "sk_tr_BNoSixd79VmtzvXtgTHsA7OsXHDiEVvF-WJotkXRevs"
-API_BASE = "https://tokenrhythm.studio/v1"
+# API 凭据从环境变量读取，不硬编码
+API_KEY = os.environ.get("OPENAI_API_KEY", "")
+API_BASE = os.environ.get("OPENAI_API_BASE", "")
 MODEL = "openai/qwen3.8-max"
 
 TITLE = {}

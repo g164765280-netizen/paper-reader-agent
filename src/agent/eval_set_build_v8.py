@@ -9,14 +9,16 @@
 from __future__ import annotations
 
 import json
+import os
 import time
 from pathlib import Path
 
 import litellm
 
 CORPUS = Path("/media/sdb1/gzj/data/rscd/corpus")
-API_KEY = "sk_tr_BNoSixd79VmtzvXtgTHsA7OsXHDiEVvF-WJotkXRevs"
-API_BASE = "https://tokenrhythm.studio/v1"
+# API 凭据从环境变量读取，不硬编码
+API_KEY = os.environ.get("OPENAI_API_KEY", "")
+API_BASE = os.environ.get("OPENAI_API_BASE", "")
 MODEL = "openai/qwen3.8-flash"
 
 PROMPT = """你是遥感变化检测论文的数据抽取器。从论文文本中，提取**论文自己提出的方法/本文方法（Ours/our method/the proposed）**的关键实验结果。

@@ -5,3 +5,12 @@ __pycache__/
 *.log
 data/corpus/
 cache/
+
+# 敏感配置（API key 等），绝不提交 git
+.env
+.env.*
+!.env.example
+.mentor_env
+*_env.sh
+secrets*.json
+config.local.*

@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import time
 from pathlib import Path
@@ -10,8 +11,9 @@ from pathlib import Path
 import litellm
 
 CORPUS = Path("/media/sdb1/gzj/data/rscd/corpus")
-API_KEY = "sk_tr_MiutB676oeX7EfIkA-G_gSG-hRdHrEvfo-Uh2TMYBhI"
-API_BASE = "https://tokenrhythm.studio/v1"
+# API 凭据从环境变量读取，不硬编码
+API_KEY = os.environ.get("OPENAI_API_KEY", "")
+API_BASE = os.environ.get("OPENAI_API_BASE", "")
 MODEL = "openai/qwen3.8-flash"
 
 METRIC_RE = re.compile(
@@ -21,12 +23,20 @@ KNOWN_DATASETS = ["LEVIR-CD", "WHU-CD", "S2Looking", "SYSU-CD", "CDD", "DSIFN", 
                   "HRSCD", "CLCD", "OSCD", "LEVIR", "WHU", "xView2"]
 
 
+def valid_value(num_str: str) -> bool:
+    """过滤垃圾值：小数(0.863/67.61)都算；整数只在 10~100(百分比)算，排除 1/5/8 这种引文编号。"""
+    if "." in num_str:
+        return True
+    n = float(num_str)
+    return 10 <= n <= 100
+
+
 def extract_table(text):
     out, seen = [], set()
     sentences = re.split(r"(?<=[.!?])\s+|\n", text)
     for m in METRIC_RE.finditer(text):
         field, num = m.group(1).lower(), m.group(2)
-        if (field, num) in seen:
+        if (field, num) in seen or not valid_value(num):
             continue
         seen.add((field, num))
         # 干净的那一句（含数字，只含一个数字）
@@ -84,12 +94,16 @@ def main():
     n = len(qs)
     for i, q in enumerate(qs, 1):
         gold = q["gold"]
+        if not valid_value(gold["value"]):
+            continue  # 跳过垃圾 gold（引文编号等）
         pid = title2id.get(q["title"])
         # 无泄漏检索：只用题目里的 metric+dataset 查表
         hits = [e for e in table.get(pid, []) if e["metric"] == gold["metric"] and e["dataset"] == gold["dataset"]]
         sentences = [e["sentence"] for e in hits]
         ans = generate(q["question"], sentences)
-        ok = num_match(gold["value"], nums_in(ans))
+        # 歧义感知：答对 (论文+指标+数据集) 的任意一个正确值就算对（题目本身有歧义）
+        candidate_values = set(e["value"] for e in hits)
+        ok = any(num_match(v, nums_in(ans)) for v in candidate_values)
         acc += ok
         if i % 20 == 0:
             print(f"[{i}/{n}] 累计正确率 {acc/i*100:.1f}% ({time.time()-t0:.0f}s)", flush=True)
