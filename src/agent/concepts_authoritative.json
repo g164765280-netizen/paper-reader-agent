@@ -1,0 +1,475 @@
+{
+  "domain": "remote_sensing_change_detection",
+  "note": "遥感变化检测概念词条（第一版种子）。内容主要整理自 docs/遥感方法知识地图.md，用于概念解释检索；近期/细分方向已按原文档标注⚠️待查证。（v3 注入版：已剔除待查证/弱来源词条）",
+  "concepts": [
+    {
+      "id": "change_detection",
+      "term": "Change Detection",
+      "term_zh": "变化检测",
+      "aliases": [
+        "CD",
+        "遥感变化检测"
+      ],
+      "category": "task",
+      "definition": "识别同一区域不同时期影像中地表发生变化的区域。",
+      "explanation": "输入通常为双时相（配准后的两期）影像，输出变化图；是灾害评估、城市扩张、环境监测的基础任务。",
+      "related": [
+        "bcd",
+        "scd",
+        "bitemporal"
+      ],
+      "source": "docs/遥感方法知识地图.md §0"
+    },
+    {
+      "id": "bcd",
+      "term": "Binary Change Detection",
+      "term_zh": "二值变化检测",
+      "aliases": [
+        "BCD"
+      ],
+      "category": "task",
+      "definition": "只判断每个像素'变/不变'，不区分变化成什么类别。",
+      "explanation": "最基础的变化检测形式，输出一张二值变化图。",
+      "related": [
+        "scd",
+        "change_detection"
+      ],
+      "source": "docs/遥感方法知识地图.md §0"
+    },
+    {
+      "id": "scd",
+      "term": "Semantic Change Detection",
+      "term_zh": "语义变化检测",
+      "aliases": [
+        "SCD"
+      ],
+      "category": "task",
+      "definition": "既判断变化，又标注变化后的地表类别。",
+      "explanation": "输出语义变化图，比二值变化检测多一步类别判定；代表数据集如 SECOND、HRSCD、OSCD。",
+      "related": [
+        "bcd",
+        "second"
+      ],
+      "source": "docs/遥感方法知识地图.md §0"
+    },
+    {
+      "id": "bitemporal",
+      "term": "Bitemporal",
+      "term_zh": "双时相",
+      "aliases": [
+        "双时相影像"
+      ],
+      "category": "key_concept",
+      "definition": "同一区域不同时间拍摄的两期影像（T1/T2）。",
+      "explanation": "变化检测的基础输入形态；两期影像必须先配准，否则会产生伪变化。",
+      "related": [
+        "registration_error",
+        "change_detection"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.5"
+    },
+    {
+      "id": "fully_supervised",
+      "term": "Fully Supervised",
+      "term_zh": "全监督",
+      "aliases": [],
+      "category": "supervision",
+      "definition": "需要像素级变化标注来训练。",
+      "explanation": "最成熟、默认起点；标注成本高。",
+      "related": [
+        "semi_supervised",
+        "unsupervised"
+      ],
+      "source": "docs/遥感方法知识地图.md §1"
+    },
+    {
+      "id": "semi_supervised",
+      "term": "Semi-supervised",
+      "term_zh": "半监督",
+      "aliases": [],
+      "category": "supervision",
+      "definition": "少量有标注 + 大量无标注影像。",
+      "explanation": "常见范式：教师-学生模型、伪标签+置信度过滤、一致性正则化；伪标签质量差会带偏模型。",
+      "related": [
+        "fully_supervised",
+        "pseudo_label"
+      ],
+      "source": "docs/遥感方法知识地图.md §2"
+    },
+    {
+      "id": "unsupervised",
+      "term": "Unsupervised",
+      "term_zh": "无监督",
+      "aliases": [],
+      "category": "supervision",
+      "definition": "完全无标注。",
+      "explanation": "传统方法如 CVA、PCA 差异图；深度方法如聚类/自编码器/GAN。精度普遍低于监督方法，适合快速筛查。",
+      "related": [
+        "cva",
+        "pca_diff"
+      ],
+      "source": "docs/遥感方法知识地图.md §3"
+    },
+    {
+      "id": "weakly_supervised",
+      "term": "Weakly Supervised",
+      "term_zh": "弱监督",
+      "aliases": [],
+      "category": "supervision",
+      "definition": "只有比像素级更粗的标注（如图像级'有无变化'）。",
+      "explanation": "典型：CAM 类方法从图像级标签反推像素级变化区域；标注成本低但定位精度有限。",
+      "related": [
+        "fully_supervised"
+      ],
+      "source": "docs/遥感方法知识地图.md §4"
+    },
+    {
+      "id": "cross_domain",
+      "term": "Cross-domain",
+      "term_zh": "跨域",
+      "aliases": [
+        "域自适应",
+        "域泛化"
+      ],
+      "category": "supervision",
+      "definition": "训练与测试影像分布不同（不同传感器/分辨率/地区）。",
+      "explanation": "分域自适应（目标域有少量无标注数据）与域泛化（目标域完全未知）；真实落地场景的核心难题。",
+      "related": [
+        "fully_supervised"
+      ],
+      "source": "docs/遥感方法知识地图.md §5"
+    },
+    {
+      "id": "multimodal",
+      "term": "Multimodal",
+      "term_zh": "多模态",
+      "aliases": [],
+      "category": "supervision",
+      "definition": "结合多种数据源，如光学 + SAR / LiDAR。",
+      "explanation": "光学受云/光照影响，SAR 全天候，多模态互补；难点是跨模态特征对齐。",
+      "related": [
+        "open_vocabulary"
+      ],
+      "source": "docs/遥感方法知识地图.md §7"
+    },
+    {
+      "id": "fc_ef",
+      "term": "FC-EF (Early Fusion)",
+      "term_zh": "早融合",
+      "aliases": [
+        "early fusion"
+      ],
+      "category": "method",
+      "definition": "双时相影像先拼接再编码。",
+      "explanation": "最简单，信息在输入端融合；三种基础融合范式之一。",
+      "related": [
+        "fc_siam_conc",
+        "fc_siam_diff"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.1"
+    },
+    {
+      "id": "fc_siam_conc",
+      "term": "FC-Siam-conc",
+      "term_zh": "孪生拼接",
+      "aliases": [
+        "siamese concat"
+      ],
+      "category": "method",
+      "definition": "孪生网络两个分支权值共享分别编码，再拼接。",
+      "explanation": "三种基础融合范式之一：孪生 + 拼接。",
+      "related": [
+        "fc_ef",
+        "fc_siam_diff",
+        "siamese_network"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.1"
+    },
+    {
+      "id": "fc_siam_diff",
+      "term": "FC-Siam-diff",
+      "term_zh": "孪生差分",
+      "aliases": [
+        "siamese diff"
+      ],
+      "category": "method",
+      "definition": "孪生网络两个分支特征相减。",
+      "explanation": "差分特征，突出'变化'信号；三种基础融合范式之一。",
+      "related": [
+        "fc_ef",
+        "fc_siam_conc"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.1"
+    },
+    {
+      "id": "siamese_network",
+      "term": "Siamese Network",
+      "term_zh": "孪生网络",
+      "aliases": [
+        "孪生结构"
+      ],
+      "category": "architecture",
+      "definition": "两个权值共享的分支分别处理两期影像。",
+      "explanation": "权值共享保证两期影像在一致的特征空间，适合配对输入的变化检测。",
+      "related": [
+        "fc_siam_conc",
+        "fc_siam_diff",
+        "snunet"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.1"
+    },
+    {
+      "id": "bit",
+      "term": "BIT (Bitemporal Image Transformer)",
+      "term_zh": "BIT",
+      "aliases": [],
+      "category": "method",
+      "definition": "把双时相特征转成 token，用 Transformer 建模长距离/全局依赖。",
+      "explanation": "Transformer 路线代表；token 化 + 全局注意力。",
+      "related": [
+        "changeformer",
+        "changer"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.3"
+    },
+    {
+      "id": "changeformer",
+      "term": "ChangeFormer",
+      "term_zh": "ChangeFormer",
+      "aliases": [],
+      "category": "method",
+      "definition": "层次化 Transformer，多尺度金字塔 + 细节分支。",
+      "explanation": "Transformer 路线代表；层次化 + 多尺度。",
+      "related": [
+        "bit",
+        "changer"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.3"
+    },
+    {
+      "id": "changer",
+      "term": "Changer",
+      "term_zh": "Changer",
+      "aliases": [],
+      "category": "method",
+      "definition": "强调特征聚合的 Transformer 变体。",
+      "explanation": "Transformer 路线代表；聚合设计。",
+      "related": [
+        "bit",
+        "changeformer"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.3"
+    },
+    {
+      "id": "snunet",
+      "term": "SNUNet",
+      "term_zh": "SNUNet",
+      "aliases": [
+        "Siam-NestedUNet"
+      ],
+      "category": "method",
+      "definition": "密集连接 + 多尺度特征聚合的孪生网络。",
+      "explanation": "缓解浅层细节丢失，经典基线。",
+      "related": [
+        "siamese_network"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.2"
+    },
+    {
+      "id": "cva",
+      "term": "CVA (Change Vector Analysis)",
+      "term_zh": "变化向量分析",
+      "aliases": [],
+      "category": "method",
+      "definition": "算两期影像每个像素的'变化向量'，模长大即变化。",
+      "explanation": "传统无监督方法，是理解变化检测的基础。",
+      "related": [
+        "pca_diff",
+        "unsupervised"
+      ],
+      "source": "docs/遥感方法知识地图.md §3"
+    },
+    {
+      "id": "pca_diff",
+      "term": "PCA Difference",
+      "term_zh": "PCA 差异图",
+      "aliases": [
+        "主成分差异"
+      ],
+      "category": "method",
+      "definition": "差分后做主成分分析，突出变化。",
+      "explanation": "传统无监督方法。",
+      "related": [
+        "cva",
+        "unsupervised"
+      ],
+      "source": "docs/遥感方法知识地图.md §3"
+    },
+    {
+      "id": "f1",
+      "term": "F1 Score",
+      "term_zh": "F1 分数",
+      "aliases": [
+        "F1",
+        "F1-score"
+      ],
+      "category": "metric",
+      "definition": "Precision 和 Recall 的调和平均。",
+      "explanation": "变化检测的主指标（最常用）。",
+      "related": [
+        "precision",
+        "recall",
+        "iou"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.6"
+    },
+    {
+      "id": "iou",
+      "term": "IoU",
+      "term_zh": "交并比",
+      "aliases": [
+        "Intersection over Union",
+        "Jaccard"
+      ],
+      "category": "metric",
+      "definition": "预测与真值交集/并集。",
+      "explanation": "对边界敏感，反映分割质量；类不平衡时比 OA 更有意义。",
+      "related": [
+        "miou",
+        "f1"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.6"
+    },
+    {
+      "id": "miou",
+      "term": "mIoU",
+      "term_zh": "平均交并比",
+      "aliases": [
+        "mean IoU"
+      ],
+      "category": "metric",
+      "definition": "各类别 IoU 的平均。",
+      "explanation": "语义分割/SCD 常用。",
+      "related": [
+        "iou"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.6"
+    },
+    {
+      "id": "oa",
+      "term": "OA (Overall Accuracy)",
+      "term_zh": "整体准确率",
+      "aliases": [
+        "OA"
+      ],
+      "category": "metric",
+      "definition": "分类正确的像素占总像素比例。",
+      "explanation": "变化检测里严重失真：变化像素占比极小(<5%)，全预测'不变'也能 95%+，不能当主指标。",
+      "related": [
+        "class_imbalance",
+        "f1"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.6/§1.7"
+    },
+    {
+      "id": "precision",
+      "term": "Precision",
+      "term_zh": "精确率",
+      "aliases": [],
+      "category": "metric",
+      "definition": "预测为变化里真正变化的比例。",
+      "explanation": "反映误报；Precision 高 Recall 低说明漏检严重。",
+      "related": [
+        "recall",
+        "f1"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.6"
+    },
+    {
+      "id": "recall",
+      "term": "Recall",
+      "term_zh": "召回率",
+      "aliases": [],
+      "category": "metric",
+      "definition": "真正变化里被检出的比例。",
+      "explanation": "反映漏检；看应用偏重误报还是漏检。",
+      "related": [
+        "precision",
+        "f1"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.6"
+    },
+    {
+      "id": "class_imbalance",
+      "term": "Class Imbalance",
+      "term_zh": "类别不平衡",
+      "aliases": [],
+      "category": "pitfall",
+      "definition": "变化像素占比极小，正负样本严重不平衡。",
+      "explanation": "变化检测核心问题：导致 OA 虚高、模型偏向'不变'；应对可用 Focal Loss、Dice 等。",
+      "related": [
+        "oa",
+        "small_object"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.7"
+    },
+    {
+      "id": "pseudo_change",
+      "term": "Pseudo-change",
+      "term_zh": "伪变化",
+      "aliases": [],
+      "category": "pitfall",
+      "definition": "并非真实地表变化却被判为变化。",
+      "explanation": "来源：配准误差、季节/光照变化。",
+      "related": [
+        "registration_error",
+        "class_imbalance"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.7"
+    },
+    {
+      "id": "registration_error",
+      "term": "Registration Error",
+      "term_zh": "配准误差",
+      "aliases": [
+        "配准"
+      ],
+      "category": "pitfall",
+      "definition": "两期影像几何未对齐。",
+      "explanation": "直接产生伪变化；变化检测前提是双时相影像必须配准。",
+      "related": [
+        "pseudo_change",
+        "bitemporal"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.5/§1.7"
+    },
+    {
+      "id": "small_object",
+      "term": "Small Object Miss",
+      "term_zh": "小目标漏检",
+      "aliases": [
+        "小目标"
+      ],
+      "category": "pitfall",
+      "definition": "小型建筑/地物变化被下采样或池化抹掉。",
+      "explanation": "需多尺度特征来缓解。",
+      "related": [
+        "class_imbalance"
+      ],
+      "source": "docs/遥感方法知识地图.md §1.7"
+    },
+    {
+      "id": "pseudo_label",
+      "term": "Pseudo Label",
+      "term_zh": "伪标签",
+      "aliases": [],
+      "category": "key_concept",
+      "definition": "用模型对无标注数据预测结果当标签。",
+      "explanation": "半监督常用；需置信度过滤，否则质量差会带偏模型。",
+      "related": [
+        "semi_supervised"
+      ],
+      "source": "docs/遥感方法知识地图.md §2"
+    }
+  ]
+}

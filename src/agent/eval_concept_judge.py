@@ -83,7 +83,8 @@ def main():
         # 提取答案里实际引用的 pqac-id 和 chunk 名，只传"被引用到的" contexts（避免截断漏传）
         ans_raw = r.get("answer") or ""
         cited_ids = set(re.findall(r"pqac-[0-9a-f]+", ans_raw))
-        cited_names = set(re.findall(r"\d{4}\.\d{4,5}v\d+\s+chunk\s+\d+", ans_raw))
+        # chunk 名：arxiv_id（如 2103.00208v3 chunk 1）或任意 docname（如 authoritative_concepts chunk 1）
+        cited_names = set(re.findall(r"[A-Za-z0-9._-]+\s+chunk\s+\d+", ans_raw))
         ctxs = []
         for c in r.get("contexts", []):
             if not isinstance(c, dict):
